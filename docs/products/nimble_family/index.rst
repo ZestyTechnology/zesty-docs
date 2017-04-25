@@ -23,10 +23,3 @@ Nimble Remote Direct Drive Extruder
    slicer_settings
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

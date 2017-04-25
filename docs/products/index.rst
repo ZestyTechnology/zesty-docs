@@ -10,6 +10,5 @@ Zesty Products
    :maxdepth: 2
    :caption: Nimble Family:
 
-   nimble_family/single
-   nimble_family/dual
+   nimble_family/index
    
