@@ -3,12 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Zesty Technology Products
-===========================
+Single Nimble 
+===============
+
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Nimble Family:
+   :caption: Single Nimble:
 
-   nimble_family/index
-   
+   parts
+   assembly
+   adapters
+   downloads

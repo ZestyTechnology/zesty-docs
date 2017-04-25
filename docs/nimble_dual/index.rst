@@ -15,8 +15,4 @@ Dual Nimble
    parts
    assembly
    adapters
-   ../firmware_configuration
-   ../calibration
-   ../slicer_settings
-   ../maintenance
    downloads
