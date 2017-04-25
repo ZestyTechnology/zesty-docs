@@ -18,7 +18,7 @@ Now for setting max retraction and optimal extruder settings. All of these setti
 The tuning of the stepper driver for efficient extrusion and retraction is a little different, than with a bowden system or other direct drive systems. 
 Because the Nimble has so much torque available, you can/must run a much lower vref for your stepper than normal. This also helps getting the pulses across properly as you are not fighting decay in the pulses caused by too much current. (Yes there is such a thing, have a look at the excellent work Ryan Carlyle has done: https://github.com/rcarlyle/StepperSim) Start with the suggested vref and go down if needed. Don't be tempted to simply increase vref if the stepper stalls. It feels contradictionary, but the science backs it up.
 
-Suggested vref is 0.3V but it depends on your setup and actual voltage supplied.
+.. note:: Suggested vref is 0.3V but it depends on your setup and actual voltage supplied.
 
 Another aspect you need to reduce is the jerk value as it helps to move the gears and drive cable in a smooth way. The goal here is to get smooth motion, not harsh forced movements. After you adjust the jerk settings, we suggest you leave them as set and do not use them to tune the retraction.
 
