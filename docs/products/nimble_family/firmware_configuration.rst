@@ -8,6 +8,37 @@ Firmware Settings
 
 The Nimble is a different beast to standard extruders and therefore requires some quite specific firmware changes if you hope to get optimal performance.
 
+
+Tuning the Nimble in software
+
+The steps are roughly around 3000 steps/mm with 1/16 microstepping. Ymmv, so do the normal extrusion calibration. 
+
+Now for setting max retraction and optimal extruder settings. All of these settings apply to the extruder stepper only. 
+
+The tuning of the stepper driver for efficient extrusion and retraction is a little different, than with a bowden system or other direct drive systems. 
+Because the Nimble has so much torque available, you can/must run a much lower vref for your stepper than normal. This also helps getting the pulses across properly as you are not fighting decay in the pulses caused by too much current. (Yes there is such a thing, have a look at the excellent work Ryan Carlyle has done: https://github.com/rcarlyle/StepperSim) Start with the suggested vref and go down if needed. Don't be tempted to simply increase vref if the stepper stalls. It feels contradictionary, but the science backs it up.
+
+Suggested vref is 0.3V but it depends on your setup and actual voltage supplied.
+
+Another aspect you need to reduce is the jerk value as it helps to move the gears and drive cable in a smooth way. The goal here is to get smooth motion, not harsh forced movements. After you adjust the jerk settings, we suggest you leave them as set and do not use them to tune the retraction.
+
+Suggested jerk or instant speed setting is 1 mm/sec
+
+For the acceleration settings, let's begin with a low setting and you can increase it later if you want to have a faster retraction. Again, the aim here is to move things as smoothly as possible. 
+
+Suggested acceleration setting is 120 mm/sec2
+
+For the normal extrusion and retraction settings in your slicer, please test the settings with the extruder multiplier set to 1 or 100% extrusion. Set the retraction speed to 30 mm/sec. This is the optimal retraction speed for PLA and should be the standard. You can increase retraction speed if you want to, but normally 30 mm/sec is perfect. 
+
+Suggested retraction speed is 30 mm/sec
+
+Now comes the fun part. You can start playing with the acceleration and vref settings to get better retraction, if you want to have faster retractions. Please leave the jerk settings as they are. Tuning the retraction is now a matter of give and take by playing with the settings. Set the initial desired retraction speed and check to see if it stalls. If it does not, you can increase the acceleration value until your retraction starts to stall. You can now do a few things. You can decrease the acceleration and leave it at that. Or you can decrease vref a bit further and try again. Or you can reduce the retraction speed. Up to you and what your situation and printer needs. 
+By playing with these settings you can fine tune the whole retraction process.  
+
+If these settings do not work for you, the first thing to try is to reduce the jerk setting. You can go as low as 0.1 mm/sec as the jerk setting has virtually no impact on your total print time. 
+If you still find you cannot retract at the speed you need, reduce, let me repeat that, reduce the vref even further. You can go down as low as 0.15V.
+If it still does not work as you expect, contact us on chat and we will have a lively discussion about it. 
+
 Marlin
 --------
 
