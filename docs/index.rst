@@ -10,5 +10,5 @@ Zesty Technology documentation
    :maxdepth: 2
    :caption: Contents:
 
-   nimble_family/index
+   products/index
 
