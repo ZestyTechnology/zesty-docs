@@ -3,17 +3,17 @@ Nimble Dual Parts List
 
 Fastening
 -----------
-=====   =====   =====
-Part name   Qty   Part Number
-=====   =====   =====
-M3 Cap screw x 25   4   Z0N-25-0059
-M3 Cap screw x 10   2   Z0N-25-0025
-M3 Cap screw x 6   12   Z0N-25-0004
-M3 Cap screw x 8   4   Z0N-25-0056
-M3 Jam nut (half height)   4   Z0N-25-0057
-M3 washers   8   Z0N-25-0058
-M3 Set screws x 6   12   Z0N-25-0004
-=====   =====   =====
++------------------------+-----+-------------+
+|Part name               | Qty | Part Number |
++========================|=====|=============+
+|M3 Cap screw x 25       |  4  | Z0N-25-0059 |
+|M3 Cap screw x 10       |  2  | Z0N-25-0025 |
+|M3 Cap screw x 6        |  12 | Z0N-25-0004 |
+|M3 Cap screw x 8        |  4  | Z0N-25-0056 |
+|M3 Jam nut (half height)|  4  | Z0N-25-0057 |
+|M3 washers              |  8  | Z0N-25-0058 |
+|M3 Set screws x 6.      |  12 | Z0N-25-0004 |
++============================================+
 
 Body
 -------
