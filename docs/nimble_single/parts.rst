@@ -5,7 +5,7 @@ Fastening
 -----------
 .. csv-table:: 
    :header: "Part name", "Qty", "Part Number"
-   :widths: 45, 5, 22
+   :widths: 40, 5, 20
    
     M3 Cap screw x 40, 2, Z0N-25-0060
     M3 Cap screw x 40, 2, Z0N-25-0060
@@ -25,7 +25,7 @@ Body
 
 .. csv-table:: 
    :header: "Part name", "Qty", "Part Number"
-   :widths: 45, 5, 22
+   :widths: 40, 5, 20
    
     Bottom half ,  1 ,  Z0N-07-0027
     Top half ,  1,   Z0N-07-0028
@@ -39,7 +39,7 @@ Bearings
 
 .. csv-table:: 
    :header: "Part name", "Qty", "Part Number"
-   :widths: 45, 5, 22
+   :widths: 40, 5, 20
    
     Worm bearing 7x13x4 ,   2 	,	Z0N-20-0019
     Gear shaft bearing 5x9x3 , 	2 	,	Z0N-20-0020
@@ -52,7 +52,7 @@ Drive System
 
 .. csv-table:: 
    :header: "Part name", "Qty", "Part Number"
-   :widths: 45, 5, 22
+   :widths: 40, 5, 20
    
     Breech block	,   1   ,		Z0N-07-0031
     Drive cable sleeve	, 1	 , 	Z0N-07-0032
