@@ -8,7 +8,7 @@ Adapter list
 ------------
 
 .. csv-table:: 
-   :header: "Part name", "Qty", "Part Number"
+   :header: "Printer name", "Type", "Remarks"
    :widths: 45, 5, 22
    
     Hypercube  , Single Nimble
