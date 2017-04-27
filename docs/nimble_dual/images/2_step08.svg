@@ -4,12 +4,12 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="198.43px" height="141.73px" viewBox="0 0 198.43 141.73" enable-background="new 0 0 198.43 141.73" xml:space="preserve">
 <g>
-	<text transform="matrix(1 0 0 1 108.8125 22.5664)" font-family="'Calibri'" font-size="18">2x</text>
+	<text transform="matrix(1 0 0 1 108.8127 22.5662)" font-family="'Calibri'" font-size="18">2x</text>
 	<g id="INSERT_6_">
 		<g id="LWPOLYLINE_3520_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				86.736,77.944 86.867,78.101 86.959,78.21 86.979,78.218 87.378,78.386 87.495,78.436 			"/>
+				86.736,77.944 86.867,78.101 86.959,78.21 86.979,78.218 87.378,78.385 87.495,78.436 			"/>
 		</g>
 		<g id="LWPOLYLINE_3519_">
 			
@@ -148,7 +148,7 @@
 		<g id="LWPOLYLINE_3498_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				80.786,99.011 81.126,98.81 81.544,98.607 81.741,98.523 			"/>
+				80.786,99.01 81.126,98.81 81.544,98.607 81.741,98.523 			"/>
 		</g>
 		<g id="LWPOLYLINE_3497_">
 			
@@ -162,16 +162,16 @@
 		<g id="LWPOLYLINE_3496_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				84.412,98.538 84.686,98.028 84.69,98.013 84.773,97.761 			"/>
+				84.412,98.538 84.686,98.028 84.69,98.013 84.773,97.76 			"/>
 		</g>
 		<g id="LWPOLYLINE_3495_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				84.773,97.761 84.527,97.602 84.51,97.594 83.945,97.371 			"/>
+				84.773,97.76 84.527,97.602 84.51,97.594 83.945,97.371 			"/>
 		</g>
 		<g id="LINE_3260_">
 			
-				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="84.773" y1="97.761" x2="84.808" y2="97.786"/>
+				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="84.773" y1="97.76" x2="84.808" y2="97.786"/>
 		</g>
 		<g id="LWPOLYLINE_3494_">
 			
@@ -206,7 +206,7 @@
 		</g>
 		<g id="LINE_3255_">
 			
-				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="92.891" y1="105.43" x2="93.746" y2="105.761"/>
+				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="92.891" y1="105.43" x2="93.746" y2="105.76"/>
 		</g>
 		<g id="LINE_3254_">
 			
@@ -353,7 +353,7 @@
 		<g id="LWPOLYLINE_3476_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				72.944,87.261 72.927,87.237 72.028,86.005 71.948,85.896 71.338,84.63 71.298,84.547 70.992,83.474 70.903,83.161 70.88,83.079 
+				72.944,87.26 72.927,87.237 72.028,86.005 71.948,85.896 71.338,84.63 71.298,84.547 70.992,83.474 70.903,83.161 70.88,83.079 
 				70.726,81.694 			"/>
 		</g>
 		<g id="LWPOLYLINE_3475_">
@@ -462,7 +462,7 @@
 		</g>
 		<g id="LINE_3223_">
 			
-				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="64.358" y1="84.886" x2="64.325" y2="85.006"/>
+				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="64.358" y1="84.885" x2="64.325" y2="85.006"/>
 		</g>
 		<g id="LWPOLYLINE_3467_">
 			
@@ -566,7 +566,7 @@
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 				90.56,98.381 90.73,98.426 90.792,98.441 90.9,98.47 90.911,98.473 91.106,98.48 91.131,98.481 91.303,98.487 91.318,98.487 
-				91.504,98.46 91.744,98.425 91.752,98.424 91.866,98.386 91.935,98.362 92.124,98.298 			"/>
+				91.504,98.46 91.744,98.425 91.752,98.424 91.866,98.385 91.935,98.362 92.124,98.298 			"/>
 		</g>
 		<g id="LWPOLYLINE_3457_">
 			
@@ -596,7 +596,7 @@
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 				74.274,88.728 74.169,88.549 74.009,88.277 73.954,88.187 73.89,88.076 73.665,87.862 73.459,87.665 73.338,87.55 73.243,87.458 
-				72.944,87.261 			"/>
+				72.944,87.26 			"/>
 		</g>
 		<g id="LWPOLYLINE_3453_">
 			
@@ -633,7 +633,7 @@
 		<g id="LWPOLYLINE_3448_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				54.45,78.886 54.866,79.2 54.966,79.334 55.032,79.671 54.987,79.806 54.696,80.126 54.511,80.247 53.896,80.516 53.612,80.603 
+				54.45,78.885 54.866,79.2 54.966,79.334 55.032,79.671 54.987,79.806 54.696,80.126 54.511,80.247 53.896,80.516 53.612,80.603 
 							"/>
 		</g>
 		<g id="LINE_3207_">
@@ -647,7 +647,7 @@
 		<g id="LWPOLYLINE_3447_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				92.689,77.085 92.369,77.139 92.008,77.157 91.618,77.136 91.282,77.074 91.048,76.99 90.893,76.879 90.86,76.766 			"/>
+				92.689,77.085 92.369,77.139 92.008,77.157 91.618,77.135 91.282,77.074 91.048,76.99 90.893,76.879 90.86,76.766 			"/>
 		</g>
 		<g id="LWPOLYLINE_3446_">
 			
@@ -688,7 +688,7 @@
 		<g id="LWPOLYLINE_3442_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				58.438,84.91 58.864,84.951 59.212,85.04 59.429,85.163 59.481,85.301 59.36,85.433 59.085,85.537 			"/>
+				58.438,84.91 58.865,84.951 59.212,85.04 59.429,85.163 59.481,85.301 59.36,85.433 59.085,85.537 			"/>
 		</g>
 		<g id="LWPOLYLINE_3441_">
 			
@@ -838,11 +838,11 @@
 		</g>
 		<g id="LINE_3182_">
 			
-				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="87.064" y1="75.062" x2="87.257" y2="75.386"/>
+				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="87.064" y1="75.062" x2="87.257" y2="75.385"/>
 		</g>
 		<g id="LINE_3181_">
 			
-				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="87.257" y1="75.386" x2="87.334" y2="75.515"/>
+				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="87.257" y1="75.385" x2="87.334" y2="75.515"/>
 		</g>
 		<g id="LINE_3180_">
 			
@@ -977,7 +977,7 @@
 		</g>
 		<g id="LINE_3151_">
 			
-				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="52.726" y1="77.565" x2="54.45" y2="78.886"/>
+				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="52.726" y1="77.565" x2="54.45" y2="78.885"/>
 		</g>
 		<g id="LWPOLYLINE_3424_">
 			
@@ -1145,7 +1145,7 @@
 		<g id="LWPOLYLINE_3403_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				57.591,109.168 57.611,109.2 57.659,109.274 57.676,109.301 57.804,109.359 57.864,109.387 57.931,109.417 58.034,109.438 
+				57.591,109.168 57.611,109.2 57.659,109.274 57.676,109.301 57.804,109.359 57.865,109.387 57.931,109.417 58.034,109.438 
 				58.107,109.453 58.133,109.459 58.313,109.496 58.394,109.501 58.413,109.502 58.718,109.522 			"/>
 		</g>
 		<g id="LWPOLYLINE_3402_">
@@ -1163,7 +1163,7 @@
 		<g id="LWPOLYLINE_3400_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				71.786,84.446 73.488,84.472 77.536,84.886 81.124,85.621 83.993,86.624 85.711,87.685 			"/>
+				71.786,84.446 73.488,84.472 77.536,84.885 81.124,85.621 83.993,86.624 85.711,87.685 			"/>
 		</g>
 		<g id="LWPOLYLINE_3399_">
 			
@@ -1202,7 +1202,7 @@
 		<g id="LWPOLYLINE_3394_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				72.944,87.261 73.01,87.159 73.076,87.057 73.118,86.992 73.144,86.888 73.167,86.793 			"/>
+				72.944,87.26 73.01,87.159 73.076,87.057 73.118,86.992 73.144,86.888 73.167,86.793 			"/>
 		</g>
 		<g id="LINE_3137_">
 			
@@ -1272,7 +1272,7 @@
 		</g>
 		<g id="LINE_3133_">
 			
-				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="54.45" y1="78.886" x2="54.473" y2="80.264"/>
+				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="54.45" y1="78.885" x2="54.473" y2="80.264"/>
 		</g>
 		<g id="LWPOLYLINE_3383_">
 			
@@ -1312,14 +1312,14 @@
 		<g id="LWPOLYLINE_3378_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				85.372,91.404 85.484,91.386 85.589,91.392 85.773,91.403 85.94,91.433 86.146,91.469 			"/>
+				85.372,91.404 85.484,91.385 85.589,91.392 85.773,91.403 85.94,91.433 86.146,91.469 			"/>
 		</g>
 		<g id="LWPOLYLINE_3377_">
 			
 				<polygon fill="none" stroke="#12100B" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 				86.534,16.817 86.479,17.635 85.961,18.431 84.996,19.179 83.615,19.854 81.863,20.438 79.796,20.911 77.48,21.256 
 				74.991,21.464 72.407,21.525 69.812,21.441 67.289,21.213 64.919,20.849 62.78,20.358 60.938,19.759 59.454,19.07 58.376,18.313 
-				57.736,17.513 57.558,16.695 57.846,15.886 58.591,15.11 59.768,14.396 61.341,13.763 63.258,13.232 65.458,12.822 67.87,12.545 
+				57.736,17.513 57.558,16.695 57.846,15.885 58.591,15.11 59.768,14.396 61.341,13.763 63.258,13.232 65.458,12.822 67.87,12.545 
 				70.418,12.409 73.018,12.421 75.587,12.577 78.043,12.876 80.307,13.305 82.306,13.852 83.185,14.163 83.976,14.498 
 				85.262,15.224 86.124,16.005 			"/>
 		</g>
@@ -1327,7 +1327,7 @@
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 				57.448,25.17 57.626,25.987 58.265,26.788 59.344,27.545 60.828,28.233 62.669,28.833 64.81,29.323 67.179,29.688 69.702,29.916 
-				72.297,30 74.881,29.938 77.37,29.73 79.687,29.386 81.753,28.913 83.505,28.329 84.886,27.653 85.852,26.905 86.369,26.109 
+				72.297,30 74.881,29.938 77.37,29.73 79.687,29.385 81.753,28.913 83.505,28.329 84.886,27.653 85.852,26.905 86.369,26.109 
 				86.424,25.292 			"/>
 		</g>
 		<g id="LWPOLYLINE_3375_">
@@ -1335,9 +1335,8 @@
 				<polygon fill="none" stroke="#12100B" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 				60.659,18.817 59.668,18.091 59.124,17.324 59.049,16.544 59.443,15.779 60.294,15.058 61.569,14.403 63.225,13.843 
 				65.199,13.395 67.422,13.075 69.812,12.896 72.283,12.864 74.747,12.98 77.113,13.24 79.297,13.635 81.22,14.149 82.061,14.446 
-				82.811,14.766 84.014,15.462 84.784,16.212 85.096,16.988 84.936,17.765 84.31,18.511 83.242,19.202 81.771,19.813 
-				79.946,20.319 77.839,20.704 75.522,20.955 73.08,21.062 70.602,21.019 68.176,20.829 65.89,20.501 63.827,20.044 62.063,19.476 
-							"/>
+				82.811,14.766 84.014,15.462 84.784,16.212 85.096,16.988 84.936,17.765 84.31,18.51 83.242,19.202 81.771,19.813 79.946,20.319 
+				77.839,20.704 75.522,20.955 73.08,21.062 70.602,21.019 68.176,20.829 65.89,20.501 63.827,20.044 62.063,19.476 			"/>
 		</g>
 		<g id="LWPOLYLINE_3374_">
 			
@@ -1359,7 +1358,7 @@
 		<g id="LWPOLYLINE_3371_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				85.036,17.277 84.779,16.636 84.008,15.886 82.806,15.189 			"/>
+				85.036,17.277 84.779,16.635 84.008,15.885 82.806,15.189 			"/>
 		</g>
 		<g id="LWPOLYLINE_3370_">
 			
@@ -1423,7 +1422,7 @@
 		<g id="LWPOLYLINE_3364_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				84.8,104.419 84.951,105.714 85.388,106.951 86.054,107.972 86.102,108.011 			"/>
+				84.8,104.419 84.951,105.714 85.388,106.951 86.054,107.972 86.102,108.01 			"/>
 		</g>
 		<g id="LWPOLYLINE_3363_">
 			
@@ -1433,7 +1432,7 @@
 		<g id="LWPOLYLINE_3362_">
 			
 				<path fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-				M78.007,115.391l0.271,0.156c0.006,0.003,10.243,3.964,10.243,3.964"/>
+				M78.007,115.391l0.271,0.155c0.007,0.003,10.243,3.964,10.243,3.964"/>
 		</g>
 		<g id="LWPOLYLINE_3361_">
 			
@@ -1484,7 +1483,7 @@
 		<g id="LWPOLYLINE_3359_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				57.412,86.105 57.571,88.696 58.106,91.307 58.989,93.804 60.177,96.064 61.61,97.974 63.216,99.437 63.431,99.587 
+				57.412,86.105 57.571,88.696 58.106,91.307 58.99,93.804 60.177,96.064 61.61,97.974 63.216,99.437 63.431,99.587 
 				65.165,100.549 65.761,100.742 			"/>
 		</g>
 		<g id="LWPOLYLINE_3358_">
@@ -1499,11 +1498,11 @@
 		<g id="LWPOLYLINE_3357_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				101.78,104.81 102.144,103.807 102.214,102.581 101.983,101.292 101.851,100.886 			"/>
+				101.78,104.81 102.144,103.807 102.214,102.581 101.983,101.292 101.851,100.885 			"/>
 		</g>
 		<g id="LINE_3114_">
 			
-				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="102.007" y1="101.261" x2="101.704" y2="100.532"/>
+				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="102.007" y1="101.26" x2="101.704" y2="100.532"/>
 		</g>
 		<g id="LWPOLYLINE_3356_">
 			
@@ -1538,7 +1537,7 @@
 		<g id="LWPOLYLINE_3350_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				64.358,84.886 64.367,85.632 64.632,88.023 65.242,90.39 66.167,92.604 67.352,94.545 			"/>
+				64.358,84.885 64.367,85.632 64.632,88.023 65.242,90.39 66.167,92.604 67.352,94.545 			"/>
 		</g>
 		<g id="LWPOLYLINE_3349_">
 			
@@ -1659,7 +1658,7 @@
 		<g id="LWPOLYLINE_3336_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				66.73,104.959 66.766,105.261 66.872,105.546 67.034,105.771 67.228,105.904 			"/>
+				66.73,104.959 66.766,105.26 66.872,105.546 67.034,105.771 67.228,105.904 			"/>
 		</g>
 		<g id="LINE_3100_">
 			
@@ -1877,7 +1876,7 @@
 		<g id="LWPOLYLINE_3312_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				100.954,105.208 100.505,105.078 100.187,104.986 99.681,104.563 99.454,104.372 98.976,103.636 98.853,103.444 98.499,102.437 
+				100.954,105.208 100.505,105.078 100.187,104.986 99.681,104.563 99.454,104.372 98.976,103.635 98.853,103.444 98.499,102.437 
 				98.458,102.32 98.321,101.146 			"/>
 		</g>
 		<g id="LWPOLYLINE_3311_">
@@ -1893,7 +1892,7 @@
 		<g id="LWPOLYLINE_3309_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				85.002,109.226 84.534,109.096 84.23,109.011 83.711,108.58 83.493,108.399 83.006,107.652 82.887,107.471 82.528,106.453 
+				85.002,109.226 84.534,109.096 84.23,109.01 83.711,108.58 83.493,108.399 83.006,107.652 82.887,107.471 82.528,106.453 
 				82.489,106.343 82.351,105.163 			"/>
 		</g>
 		<g id="LINE_3076_">
@@ -1914,7 +1913,7 @@
 		</g>
 		<g id="LINE_3072_">
 			
-				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="80.779" y1="105.12" x2="80.786" y2="99.011"/>
+				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="80.779" y1="105.12" x2="80.786" y2="99.01"/>
 		</g>
 		<g id="LINE_3071_">
 			
@@ -1926,7 +1925,7 @@
 		</g>
 		<g id="LINE_3069_">
 			
-				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="80.786" y1="99.011" x2="73.156" y2="92.055"/>
+				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="80.786" y1="99.01" x2="73.156" y2="92.055"/>
 		</g>
 		<g id="LWPOLYLINE_3308_">
 			
@@ -2030,7 +2029,7 @@
 		<g id="LWPOLYLINE_3298_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				86.012,108.269 85.765,108.063 85.547,107.883 85.06,107.136 84.94,106.954 84.581,105.937 84.543,105.826 84.405,104.646 			"/>
+				86.012,108.269 85.765,108.063 85.547,107.883 85.06,107.135 84.94,106.954 84.581,105.937 84.543,105.826 84.405,104.646 			"/>
 		</g>
 		<g id="LWPOLYLINE_3297_">
 			
@@ -2104,7 +2103,7 @@
 		</g>
 		<g id="LINE_3045_">
 			
-				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="93.746" y1="105.761" x2="93.683" y2="110.665"/>
+				<line fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="93.746" y1="105.76" x2="93.683" y2="110.665"/>
 		</g>
 		<g id="LINE_3044_">
 			
@@ -2237,7 +2236,7 @@
 		<g id="LWPOLYLINE_3275_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				74.258,90.919 73.962,90.311 73.076,87.75 72.944,87.261 			"/>
+				74.258,90.919 73.962,90.311 73.076,87.75 72.944,87.26 			"/>
 		</g>
 		<g id="LINE_3034_">
 			
@@ -2293,7 +2292,7 @@
 		<g id="LWPOLYLINE_3268_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				96.996,94.191 96.819,94.011 96.791,93.962 96.623,93.673 96.621,93.666 96.515,93.321 			"/>
+				96.996,94.191 96.819,94.01 96.791,93.962 96.623,93.673 96.621,93.666 96.515,93.321 			"/>
 		</g>
 		<g id="LINE_3029_">
 			
@@ -2558,7 +2557,7 @@
 		<g id="LWPOLYLINE_3235_">
 			
 				<polyline fill="none" stroke="#12100B" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-				61.614,113.344 60.526,113.466 59.206,113.508 			"/>
+				61.615,113.344 60.526,113.466 59.206,113.508 			"/>
 		</g>
 		<g id="LWPOLYLINE_3234_">
 			
@@ -2580,7 +2579,11 @@
 				50.802,107.091 50.776,109.078 50.77,109.61 50.765,110.031 50.751,111.064 			"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 110.3125 73.3164)" font-family="'Calibri'" font-size="18">A/B</text>
-	<text transform="matrix(1 0 0 1 43.813 36.3164)" font-family="'Calibri'" font-size="18">P</text>
+	<text transform="matrix(1 0 0 1 110.3127 73.3162)" font-family="'Calibri'" font-size="18">A/B</text>
+	<text transform="matrix(1 0 0 1 43.8127 36.3162)" font-family="'Calibri'" font-size="18">P</text>
+	<g enable-background="new    ">
+		<path d="M66.822,38.327h8.588v11.649h4.889l-9.184,8.705l-9.182-8.705h4.889V38.327z M71.115,56.756l5.716-5.418h-2.858V39.689
+			h-5.715v11.649H65.4L71.115,56.756z"/>
+	</g>
 </g>
 </svg>
