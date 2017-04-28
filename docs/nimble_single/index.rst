@@ -14,5 +14,5 @@ Single Nimble
 
    parts
    assembly
-   adapters
-   downloads
+   tuning
+   calibration
