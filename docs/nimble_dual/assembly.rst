@@ -11,9 +11,9 @@ Step 1
 
     Insert nuts into Dual base
 
-    *Take the Dual Nimble base (Part D) and place it upside down on the table. 
-    *Take 4 M3 nuts (part S) and place each into the pockets provided in the Dual base. The places are clear to recognise as they are the only hexagonal shaped holes on the base.
-    *The nuts need to be pushed all the way down and will lock into place. To make this easier, you can use a M3 screw like part T to screw into the nut and use that to push the nut down to the bottom of the hexagonal hole. 
+    * Take the Dual Nimble base (Part D) and place it upside down on the table. 
+    * Take 4 M3 nuts (part S) and place each into the pockets provided in the Dual base. The places are clear to recognise as they are the only hexagonal shaped holes on the base.
+    * The nuts need to be pushed all the way down and will lock into place. To make this easier, you can use a M3 screw like part T to screw into the nut and use that to push the nut down to the bottom of the hexagonal hole. 
 
 
 Step 2
@@ -26,8 +26,8 @@ Step 2
 
     Insert bearings for worms
 
-    *Turn the Dual base right side up and insert the two Worm Bearings (part P) into the housing.
-    *This can require a little force. If you cannot get it right, you can use the Worm (part G) to push the bearings in properly.
+    * Turn the Dual base right side up and insert the two Worm Bearings (part P) into the housing.
+    * This can require a little force. If you cannot get it right, you can use the Worm (part G) to push the bearings in properly.
 
 
 Step 3
@@ -40,9 +40,9 @@ Step 3
 
     Insert PTFE tubing into Chimera
 
-    *Take the heat sink of the Chimera and insert some PTFE liner into the filament holes. 
-    *Make sure the liner protrudes the top of the heat sink by exactly 3 mm. This is only if the Dual base is bolted directly on top of the Chimera/Cyclops hot end.
-    *If an adapter is used, make sure the PTFE tube sticks up through the adapter by 3 mm. The Dual base has space in the bottom to lock the PTFE tube into place.
+    * Take the heat sink of the Chimera and insert some PTFE liner into the filament holes. 
+    * Make sure the liner protrudes the top of the heat sink by exactly 3 mm. This is only if the Dual base is bolted directly on top of the Chimera/Cyclops hot end.
+    * If an adapter is used, make sure the PTFE tube sticks up through the adapter by 3 mm. The Dual base has space in the bottom to lock the PTFE tube into place.
 
 
 Step 4
@@ -55,8 +55,8 @@ Step 4
 
     Mount Dual base on Chimera or adapter
 
-    *Mount the Dual base on the Chimera. Use 3 M3 screws (part V) for this. 
-    *If the Dual is mounted using an adapter, check the adapter page to see if additional steps need to be taken. 
+    * Mount the Dual base on the Chimera. Use 3 M3 screws (part V) for this. 
+    * If the Dual is mounted using an adapter, check the adapter page to see if additional steps need to be taken. 
 
 
 Step 5
@@ -69,7 +69,7 @@ Step 5
 
     Insert worms
 
-    *Insert the 3 Worm gears (part G) into the bearings in the Dual base.
+    * Insert the 3 Worm gears (part G) into the bearings in the Dual base.
 
 Step 6
 ------
@@ -103,7 +103,7 @@ Step 7
 
     Mount gear shafts
 
-    *Fit the combined gear shaft and hob into the Dual base making sure the teeth of the gear mesh nicely with the worm gear. 
+    * Fit the combined gear shaft and hob into the Dual base making sure the teeth of the gear mesh nicely with the worm gear. 
 
 
 Step 8
@@ -116,9 +116,9 @@ Step 8
 
     Insert bearings for worms
 
-    *You will use the Worm bearings (part P) and both the shell housings (parts A and B)
-    *Insert one bearing into each of the shell housing. This can require a little force. If you cannot get it right, you can use the Worm (part G) to push the bearings in properly. 
-    *Do this for both the bottom and the top shell. 
+    * You will use the Worm bearings (part P) and both the shell housings (parts A and B)
+    * Insert one bearing into each of the shell housing. This can require a little force. If you cannot get it right, you can use the Worm (part G) to push the bearings in properly. 
+    * Do this for both the bottom and the top shell. 
 
 
 Step 9
@@ -131,9 +131,9 @@ Step 9
 
     Close the Dual Nimble
 
-    *Close the Dual Nimble by placing the upper shells. 
-    *Make sure the worm gear is seated nicely in the bearing and that the seam is completely closed. If not, it means that the bearings for the Worm are not properly seated. Press down until it is fully closed. 
-    *Do this for both sides.
+    * Close the Dual Nimble by placing the upper shells. 
+    * Make sure the worm gear is seated nicely in the bearing and that the seam is completely closed. If not, it means that the bearings for the Worm are not properly seated. Press down until it is fully closed. 
+    * Do this for both sides.
 
 
 Step 10
@@ -146,7 +146,7 @@ Step 10
 
     Insert 2 closing bolts
 
-    *For now use only 2 bolts (part T) to bolt the Dual Nimble together using the outer bolt holes. This is done to close the Dual and keep everything together while you complete the drive cable and sleeve.
+    * For now use only 2 bolts (part T) to bolt the Dual Nimble together using the outer bolt holes. This is done to close the Dual and keep everything together while you complete the drive cable and sleeve.
 
 
 Step 11
@@ -159,9 +159,9 @@ Step 11
 
     Click in Breech blocks
 
-    *Now you can place the Breech blocks (part E) into the housing. This will lock into place with a click. 
-    *To do so, keep the breech block horizontal, place the shafts into the bottom grooves of the housing and rotate the breech block upwards, between the upper "forks" until it clicks into place.
-    *Do this for both sides.
+    * Now you can place the Breech blocks (part E) into the housing. This will lock into place with a click. 
+    * To do so, keep the breech block horizontal, place the shafts into the bottom grooves of the housing and rotate the breech block upwards, between the upper "forks" until it clicks into place.
+    * Do this for both sides.
 
 
 Step 12
@@ -202,11 +202,11 @@ Step 14
 
     Insert Coupler on stepper shaft
 
-    *Place the Coupler (part N) on the shaft of the stepper. The Coupler should fit through the top hole of the Bracket. 
-    *Slide it down until there is approx 1.5 mm space between the stepper base and the Coupler.
-    *Rotate the Coupler until the bottom set screws are perpendicular to the flat on the stepper shaft. 
-    *Make sure there still is approx 1.5 mm space between the stepper base and the Coupler and tighten the bottom set screw (part Y).
-    *Do this for both steppers.
+    * Place the Coupler (part N) on the shaft of the stepper. The Coupler should fit through the top hole of the Bracket. 
+    * Slide it down until there is approx 1.5 mm space between the stepper base and the Coupler.
+    * Rotate the Coupler until the bottom set screws are perpendicular to the flat on the stepper shaft. 
+    * Make sure there still is approx 1.5 mm space between the stepper base and the Coupler and tighten the bottom set screw (part Y).
+    * Do this for both steppers.
 
 
 Step 15
@@ -219,9 +219,9 @@ Step 15
 
     Slide Drive Cable Sleeve into Sleeve Clamp (Stepper side)
 
-    *Take the Sleeve Clamp (part C) and slide the Drive Cable Sleeve (part F) in the top, as far as it will go. There is a little step and the bottom of the sleeve clamp to make sure the sleeve goes in just the right depth.
-    *Clamp the sleeve using the M3 screw (part Z) and the Half nut (part W). Tighten the screw nice and tight. There is a little ridge inside the sleeve clamp to prevent you from squeezing the sleeve too far and jamming the drive cable.
-    *Do this for both steppers.
+    * Take the Sleeve Clamp (part C) and slide the Drive Cable Sleeve (part F) in the top, as far as it will go. There is a little step and the bottom of the sleeve clamp to make sure the sleeve goes in just the right depth.
+    * Clamp the sleeve using the M3 screw (part Z) and the Half nut (part W). Tighten the screw nice and tight. There is a little ridge inside the sleeve clamp to prevent you from squeezing the sleeve too far and jamming the drive cable.
+    * Do this for both steppers.
 
 
 Step 16
@@ -234,9 +234,9 @@ Step 16
 
     Insert Sleeve clamp into stepper bracket
 
-    *Mount the Sleeve Clamp to the Bracket.
-    *Take care of the little lip. So insert the sleeve clamp using a little rocking motion. This lip prevents the sleeve clamp from lifting up during use. 
-    *Do this for both steppers.
+    * Mount the Sleeve Clamp to the Bracket.
+    * Take care of the little lip. So insert the sleeve clamp using a little rocking motion. This lip prevents the sleeve clamp from lifting up during use. 
+    * Do this for both steppers.
 
 
 Step 17
@@ -249,8 +249,8 @@ Step 17
 
     Bolt Sleeve Clamp to Bracket 
 
-    *Use the M3 screw (part V) to bolt the sleeve clamp to the bracket.
-    *Do this for both steppers.
+    * Use the M3 screw (part V) to bolt the sleeve clamp to the bracket.
+    * Do this for both steppers.
 
 
 Step 18
@@ -262,10 +262,10 @@ Step 18
     :width: 286px
 
     Slide Drive Cable into Coupler 
-    *Now, take the drive cable itself (part L) and have a good look at it. You will see one side has square sides pressed into it. This is the Nimble side. 
-    *Slide the other end, the round end, into the Drive Cable Sleeve and thread it all the way through. It will slide into the Coupler. 
-    *Slide it all the way down and clamp it using the remaining 5 set screws (part Y)
-    *Do this for both steppers.
+    * Now, take the drive cable itself (part L) and have a good look at it. You will see one side has square sides pressed into it. This is the Nimble side. 
+    * Slide the other end, the round end, into the Drive Cable Sleeve and thread it all the way through. It will slide into the Coupler. 
+    * Slide it all the way down and clamp it using the remaining 5 set screws (part Y)
+    * Do this for both steppers.
 
 
 Step 19
@@ -278,9 +278,9 @@ Step 19
 
     Slide Drive Cable Sleeve into Sleeve Clamp (Nimble side)
 
-    *Back to the Dual Nimble side.
-    *Slide the Sleeve, now containing the drive cable as well, into the next Sleeve Clamp (part C) and push it down as far as it will go. 
-    *Use the M3 screw (part Z) and the half nut (part W) to clamp the sleeve. 
+    * Back to the Dual Nimble side.
+    * Slide the Sleeve, now containing the drive cable as well, into the next Sleeve Clamp (part C) and push it down as far as it will go. 
+    * Use the M3 screw (part Z) and the half nut (part W) to clamp the sleeve. 
 
     .. Note:: After mounting the Dual Nimble in place, you can loosen this screw a little to adjust the direction of the drive cable, allowing it to have a relaxed and free arch to the stepper.
 
@@ -295,11 +295,11 @@ Step 20
 
     Insert Drive Cable into worm gear inside Dual Nimble
 
-    *Insert the drive cable into the worm and then slide it down. 
-    *To place the sleeve clamp correctly, make sure you line up the bolt holes of the sleeve clamp and the Nimble and then with a rocking motion, slip the little lip into the space provided in the Nimble. 
-    *Push down and the sleeve clamp should slip into position. 
-    *This can take a little push the first time. As long as you make sure it is aligned properly, this is not a problem.
-    *Do this for both sides of the Dual Nimble.
+    * Insert the drive cable into the worm and then slide it down. 
+    * To place the sleeve clamp correctly, make sure you line up the bolt holes of the sleeve clamp and the Nimble and then with a rocking motion, slip the little lip into the space provided in the Nimble. 
+    * Push down and the sleeve clamp should slip into position. 
+    * This can take a little push the first time. As long as you make sure it is aligned properly, this is not a problem.
+    * Do this for both sides of the Dual Nimble.
 
 
 Step 21
@@ -312,11 +312,11 @@ Step 21
 
     Bolt Sleeve to Dual Nimble
 
-    *Now use the remaining screws (part T) to bolt the Sleeve clamp to the Dual Nimble base. 
-    *The Dual Nimble is now installed. 
-    *Have a good look to see if all looks the way you think it should and correct any things that do not look right.
-    *This is also the moment to adjust the direction of the drive cable, so that it forms a nice arch to the stepper, as mentioned in step 17. So loosen the short M3 screw from the half nut until you can just rotate the drive cable sleeve. Once it is in position, make sure it is seated properly by pressing down and then tighten the screw again. 
-    *Do this for both sides of the Dual Nimble
+    * Now use the remaining screws (part T) to bolt the Sleeve clamp to the Dual Nimble base. 
+    * The Dual Nimble is now installed. 
+    * Have a good look to see if all looks the way you think it should and correct any things that do not look right.
+    * This is also the moment to adjust the direction of the drive cable, so that it forms a nice arch to the stepper, as mentioned in step 17. So loosen the short M3 screw from the half nut until you can just rotate the drive cable sleeve. Once it is in position, make sure it is seated properly by pressing down and then tighten the screw again. 
+    * Do this for both sides of the Dual Nimble
 
 
 Alternate positions
@@ -334,8 +334,8 @@ Alternate positions
 
     Alternate positions of the Chimera block and the bolt positions used
 
-    *The Dual Nimble can be mounted in 2 different positions relative to the Chimera/Cyclops hot end. The heat end can be mounted with the fan at the back or at the front, compared to the breeches. 
-    *Alternate bolt holes are provided to facilitate this other position.  
+    * The Dual Nimble can be mounted in 2 different positions relative to the Chimera/Cyclops hot end. The heat end can be mounted with the fan at the back or at the front, compared to the breeches. 
+    * Alternate bolt holes are provided to facilitate this other position.  
 
 Using the Dual Nimble
 #####################
