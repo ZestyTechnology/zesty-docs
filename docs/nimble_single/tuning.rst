@@ -11,7 +11,7 @@ Current for the stepper
 
 The tuning of the stepper driver for efficient extrusion and retraction is a little different, than with a bowden system or other direct drive systems. Because the Nimble has so much torque available, you can/must run a much lower vref for your stepper than normal. This also helps getting the pulses across properly as you are not fighting decay in the pulses caused by too much current.
 
-..note:: Yes there is such a thing, have a look at the excellent work Ryan Carlyle has done: https://github.com/rcarlyle/StepperSim 
+.. Note:: Yes there is such a thing, have a look at the excellent work Ryan Carlyle has done: https://github.com/rcarlyle/StepperSim 
 
 Start with the suggested vref and go down if needed. Don’t be tempted to simply increase vref if the stepper stalls. It feels contra-dictionary, but the science backs it up.
 
@@ -22,21 +22,21 @@ Acceleration value
 
 For the acceleration settings, let’s begin with a low setting and you can increase it later if you want to have a faster retraction. Again, the aim here is to move things as smoothly as possible.
 
-..note:: Suggested acceleration setting is 120 mm/sec2
+.. Note:: Suggested acceleration setting is 120 mm/sec2
 
 Jerk value
 ----------
 
 Another aspect you need to reduce is the jerk value as it helps to move the gears and drive cable in a smooth way. The goal here is to get smooth motion, not harsh forced movements. After you adjust the jerk settings, we suggest you leave them as set and do not use them to tune the retraction. They have little if any measurable impact on print speed anyway.
 
-..note:: Suggested jerk or instant speed change setting is 1 mm/sec
+.. Note:: Suggested jerk or instant speed change setting is 1 mm/sec
 
 Retraction speed
 ----------------
 
 For the normal extrusion and retraction settings in your slicer, please test the settings with the extruder multiplier set to 1 or 100% extrusion. Set the retraction speed to 30 mm/sec. This is the optimal retraction speed for PLA and should be the standard. You can increase retraction speed if you want to, but normally 30 mm/sec is perfect.
 
-..note:: Suggested retraction speed is 30 mm/sec
+.. Note:: Suggested retraction speed is 30 mm/sec
 
 Tuning it all
 -------------
