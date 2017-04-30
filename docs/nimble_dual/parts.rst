@@ -8,7 +8,7 @@ Here is a complete list of all the parts of the Nimble including the quantity ne
     :height: 800px
     :width: 600px
 
-    Parts layout
+    Dual Nimble Parts layout
 
 The following parts are not shown in the image:
 
