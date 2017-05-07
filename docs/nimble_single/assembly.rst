@@ -272,8 +272,10 @@ To close the breech block, place the shafts into the slots of the "forks" on the
 
 If the hot end is up to temperature, you can now test the extrusion. Simply extrude about 10 mm and observe how the filament comes out of the hot end. It should be a neat straight line.
 
-Calibrate the Nimble
+Tuning the firmware
 ####################
 
-See the :doc:`Calibrate the Nimble<../nimble_calibration>` page.
+Before using the Nimble you need to tune the firmware and calibrate the extrusion. You will need to tune the firmware first, as the Nimble is quite a different type of extruder. 
+
+See the :doc:`Tuning the Firmware<./tuning>` page.
 
