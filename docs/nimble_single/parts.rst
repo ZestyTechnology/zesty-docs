@@ -4,7 +4,7 @@ Parts List
 Here is a complete list of all the parts of the Nimble including the quantity needed for the Nimble.
 
 .. figure:: images/1_all_parts.svg
-    :alt: Open Breech
+    :alt: All parts of the Nimble
     :height: 400px
     :width: 286px
 
