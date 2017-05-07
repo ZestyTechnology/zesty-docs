@@ -12,8 +12,7 @@ Zesty Technology
 
    nimble_single/index
    nimble_dual/index
-   nimble_calibration
-   nimble_firmware
+   nimble_adapters
    nimble_maintenance
    nimble_slicer
 
