@@ -355,8 +355,11 @@ To close the breech blocks, place the shafts into the slots of the "forks" on th
 
 If the Chimera/Cyclops is up to temperature, you can now test the extrusion. Simply extrude about 10 mm and observe how the filament comes out of the hot end. It should be a neat straight line.
 
-Calibrate the Dual Nimble
-#########################
+Tuning the Firmware
+###################
 
-See the :doc:`Calibrate the Nimble<../nimble_calibration>` page.
+Before using the Nimble you need to tune the firmware and calibrate the extrusion. You will need to tune the firmware first, as the Nimble is quite a different type of extruder. 
+
++See the :doc:`Tuning the Firmware<./tuning>` page or click Next.
+
 
