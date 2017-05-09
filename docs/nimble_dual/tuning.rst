@@ -2,16 +2,18 @@ Tuning the Firmware
 ===================
 
 The Dual Nimble is a different beast to standard extruders and therefore requires some quite specific firmware changes if you hope to get optimal performance.
-The steps are roughly around 3000 steps/mm with 1/16 microstepping. Ymmv, so after this tuning, do the normal extrusion calibration.
 
-Now for setting max retraction and optimal extruder settings. All of these settings apply to the extruder steppers only.
+.. Note:: The steps are roughly around 3000 steps/mm with 1/16 microstepping. 
+
+Your settings will probably be slightly different, so after this tuning, do the normal extrusion calibration.
+
+Now for setting max retraction and optimal extruder settings. All of these settings apply to both the extruder steppers only.
 
 Current for the steppers
 -----------------------
 
 The tuning of the stepper driver for efficient extrusion and retraction is a little different, than with a bowden system or other direct drive systems. Because the Nimble has so much torque available, you can/must run a much lower vref for your stepper than normal. This also helps getting the pulses across properly as you are not fighting decay in the pulses caused by too much current.
-
-.. Note:: Yes there is such a thing, have a look at the excellent work Ryan Carlyle has done: https://github.com/rcarlyle/StepperSim 
+(Yes there is such a thing, have a look at the excellent work Ryan Carlyle has done: https://github.com/rcarlyle/StepperSim )
 
 Start with the suggested vref and go down if needed. Don’t be tempted to simply increase vref if the stepper stalls. It feels contra-dictionary, but the science backs it up.
 
@@ -52,6 +54,8 @@ Now comes the fun part. You can start playing with the acceleration and vref set
 
 Up to you and what your situation and printer needs. By playing with these settings you can fine tune the whole retraction process.
 Do try and keep the settings for both steppers the same. 
+
+You are now ready to start using the Dual Nimble, so go to the :doc:`Using the Dual Nimble<./using>` page or click Next.
 
 Troubleshooting
 ---------------
