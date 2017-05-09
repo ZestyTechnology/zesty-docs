@@ -52,6 +52,8 @@ Now comes the fun part. You can start playing with the acceleration and vref set
 
 Up to you and what your situation and printer needs. By playing with these settings you can fine tune the whole retraction process.
 
+You are now ready to start using the Nimble, so go to the :doc:`Using the Nimble<./using>` page or click Next.
+
 Troubleshooting
 ---------------
 If these settings do not work for you, the first thing to try is to reduce the jerk setting. You can go as low as 0.1 mm/sec as the jerk setting has virtually no impact on your total print time. If you still find you cannot retract at the speed you need, reduce, let me repeat that, reduce the vref even further. You can go down as low as 0.1V. If it still does not work as you expect, contact us on chat and we will have a lively discussion about it.
