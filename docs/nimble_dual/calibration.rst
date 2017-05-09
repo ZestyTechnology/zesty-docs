@@ -44,4 +44,4 @@ The idea is to get the paper to rotate around each nozzle with the same force ne
 You have now set the extrusion rate of the Dual Nimble correctly and have the nozzles set right.
 You can now start Using the Dual Nimble.
 
-See the `Using the Nimble ./using.rst`_ page or click Next.
+See the :doc:`Using the Nimble<./using>` page or click Next.
