@@ -363,3 +363,4 @@ Before using the Nimble you need to tune the firmware and calibrate the extrusio
 +See the :doc:`Tuning the Firmware<./tuning>` page or click Next.
 
 
+
