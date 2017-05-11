@@ -20,4 +20,4 @@ Use a light coloured filament, place it in the breech, heat up the hot end and s
 * Do the whole sequence again, to confirm that the steps per millimeter are now set correctly.
 * if not, recalculate and re-confirm.
 
-You have now set the extrusion rate of the Nimble correctly and can start Using the Nimble.
+Done! All the tuning and calibrations are done. You are now ready to start using the Nimble, so go to the :doc:`Using the Nimble<./using>` page or click Next.
