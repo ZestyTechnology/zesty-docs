@@ -1,7 +1,7 @@
-Using the Nimble
+Using the Dual Nimble
 ================
 
-The Nimble is designed to be easy to use. Here are the basic tips to make it even better.
+The Dual Nimble is designed to be easy to use. Here are the basic tips to make it even better.
 
 Loading the filament
 --------------------
@@ -77,6 +77,4 @@ When the breech block is open en there is no filament, you have a good opportuni
 When inserting the filament and IF the hot end is up to working temperature, you can use the filament to purge the rest of the previous filament. 
 Simply press the filament down into the hot end, without the breech in place. You can feel the filament melt and be pushed through the melt zone and out the nozzle. Do so until all the previous filament is gone.
 
-..note:: This is a GREAT way to sense if there is a blockage or another problem in your nozzle or melt zone.
-
-You could even use this to fix two printed parts together. Simply hold the 2 parts together, place them against the hot nozzle and while you feed in some filament, "weld" the 2 parts together. We have done it and admittedly, it is tricky to hold the two parts together properly with one hand, but if the parts are suitable, it works like a charm.   
+.. Note:: This is a GREAT way to sense if there is a blockage or another problem in your nozzle or melt zone.
