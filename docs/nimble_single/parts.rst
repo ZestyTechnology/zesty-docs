@@ -5,8 +5,8 @@ Here is a complete list of all the parts of the Nimble including the quantity ne
 
 .. figure:: images/1_all_parts.svg
     :alt: All parts of the Nimble
-    :height: 400px
-    :width: 286px
+    :height: 800px
+    :width: 572px
 
     Parts layout
 
@@ -14,7 +14,7 @@ The following parts are not shown in the image:
 
 * F, Drive cable sleeve
 * L, Drive cable
-* S, M3 nut
+* S, M3 nuts
 
 
 Body
