@@ -360,7 +360,7 @@ Tuning the Firmware
 
 Before using the Nimble you need to tune the firmware and calibrate the extrusion. You will need to tune the firmware first, as the Nimble is quite a different type of extruder. 
 
-+See the :doc:`Tuning the Firmware<./tuning>` page or click Next.
+See the :doc:`Tuning the Firmware<./tuning>` page or click Next.
 
 
 
