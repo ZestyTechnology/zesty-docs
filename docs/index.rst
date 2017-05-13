@@ -14,5 +14,3 @@ Zesty Technology
    nimble_dual/index
    nimble_adapters
    nimble_maintenance
-   nimble_slicer
-
