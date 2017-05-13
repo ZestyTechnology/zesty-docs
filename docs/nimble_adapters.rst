@@ -33,3 +33,7 @@ Adapter list
     Robo3D R1		,			Single Nimble	,	With quick release mechanism
     Vulcanus		,			Single Nimble,
 
+
+Most of these adapters are available on our `Thingiverse pages <http://www.thingiverse.com/ZestyTech/collections/adaptors-for-the-nimble>`_ and on our `Shapeways shop <https://www.shapeways.com/shops/zestytechnology>`_ .
+
+If you have developed an adapter for the Nimble, please let us know so we can add it to the list. 
