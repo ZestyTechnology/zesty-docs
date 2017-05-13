@@ -6,11 +6,31 @@
 Maintenance of your Nimble
 ============================
 
-For the longevity of your Nimble we recommend you use the following maintenance schedule.
+The Nimble needs very little maintenance. Just a simple cleaning every now and then. Because it is difficult to measure it in working hours we decided to specify the maintenance per spool printed. Without further ado, for the longevity of your Nimble we recommend you use the following maintenance schedule.
 
-Do this
----------
+Every spool
+-----------
+
+After printing a full spool of 750 gr or 1 kg, we recommend the following actions:
+
+* Blow out chaff from inside
+* Blow out chaff from breech
+
+Every 5 spools
+--------------
+
+After printing 5 full spools of 750 gr or 1 kg, we recommend the following actions:
+
+* All of the above
+* Open Nimble to check the teeth
 
 
-Do that
----------
+Every 10 spools
+---------------
+
+The following steps are not really needed, but it is good to do it every now and then.
+
+* All of the above
+* Dis-assemble the Nimble and check the teeth for damage, have a look at the hob and in general inspect the Nimble.
+
+We have tried to make the Nimble as easy to maintain as it is to use, but if you have any suggestions how we can improve and simplify, we would be very happy to hear from you. 
