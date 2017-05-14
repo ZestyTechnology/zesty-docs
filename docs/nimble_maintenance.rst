@@ -24,13 +24,7 @@ After printing 5 full spools of 750 gr or 1 kg, we recommend the following actio
 * All of the above
 * Open Nimble to check the teeth
 
+Overall
+-------
 
-Every 10 spools
----------------
-
-The following steps are not really needed, but it is good to do it every now and then.
-
-* All of the above
-* Dis-assemble the Nimble and check the teeth for damage, have a look at the hob and in general inspect the Nimble.
-
-We have tried to make the Nimble as easy to maintain as it is to use, but if you have any suggestions how we can improve and simplify, we would be very happy to hear from you. 
+For the rest there is very little to do in regards to maintenance. We have tried to make the Nimble as easy to maintain as it is to use, but if you have any suggestions how we can improve and simplify, we would be very happy to hear from you. 
