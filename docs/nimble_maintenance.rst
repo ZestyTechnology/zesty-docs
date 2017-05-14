@@ -13,8 +13,8 @@ Every spool
 
 After printing a full spool of 750 gr or 1 kg, we recommend the following actions:
 
-* Blow out chaff from inside
-* Blow out chaff from breech
+* Blow out chaff from inside, using the vents provided.
+* Blow out chaff from breech, when opened.
 
 Every 5 spools
 --------------
@@ -22,7 +22,7 @@ Every 5 spools
 After printing 5 full spools of 750 gr or 1 kg, we recommend the following actions:
 
 * All of the above
-* Open Nimble to check the teeth
+* Open the breech to check the teeth of the hob. They are easy to clean, if needed using a tooth brush. (what else?) 
 
 Overall
 -------
