@@ -28,7 +28,7 @@ Adapter list
     Basic Prusa clone 	,		Single Nimble	,	Like the Geeetech i3
     Prusa i3 and clones	,		Single Nimbles,		2 Nimbles side by side.
     Diamond Nozzle		,		Single Nimbles	,	3 Nimbles 
-    Diamnond Nozzle Trium3D	,	Single Nimbles		,3 Nimbles 
+    Diamond Nozzle Trium3D	,	Single Nimbles		,3 Nimbles 
     FLSUN Delta			,		Single Nimble
     Robo3D R1		,			Single Nimble	,	With quick release mechanism
     Vulcanus		,			Single Nimble,
