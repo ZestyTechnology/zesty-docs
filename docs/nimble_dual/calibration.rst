@@ -14,7 +14,7 @@ Use a light coloured filament, place it in the breech, heat up the hot end and s
 * Measure the remaining length to the mark made. 
 * Calculate the new number of steps/mm using the following formula:
 
-.. note:: New steps = current steps * actual mm extruded/50 (50 being the 50 mm of filament you wanted to extrude.)
+.. note:: New steps = current steps * 50/actual mm extruded (50 being the 50 mm of filament you wanted to extrude.)
 
 * enter the new value in your firmware settings.
 * Do the whole sequence again, to confirm that the steps per millimeter are now set correctly.
