@@ -17,7 +17,7 @@ The tuning of the stepper driver for efficient extrusion and retraction is a lit
 
 Start with the suggested vref and go down if needed. Don’t be tempted to simply increase vref if the stepper stalls. It feels contra-dictionary, but the science backs it up.
 
-.. Note:: Suggested vref is 0.3V but it depends on your setup and actual voltage supplied.
+.. Note:: Suggested vref is 0.3V or 500 mA but it depends on your setup and actual voltage supplied.
 
 Acceleration value
 ------------------
