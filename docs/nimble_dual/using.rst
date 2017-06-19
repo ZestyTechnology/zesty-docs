@@ -1,5 +1,5 @@
 Using the Dual Nimble
-================
+=====================
 
 The Dual Nimble is designed to be easy to use. Here are the basic tips to make it even better.
 

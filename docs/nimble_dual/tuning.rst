@@ -3,14 +3,39 @@ Tuning the Firmware
 
 The Dual Nimble is a different beast to standard extruders and therefore requires some quite specific firmware changes if you hope to get optimal performance.
 
-.. Note:: The steps are roughly around 3000 steps/mm with 1/16 microstepping. 
+.. Note:: For 32 bit boards start at around 3000 steps/mm at 1/16 microstepping.
 
-Your settings will probably be slightly different, so after this tuning, do the normal extrusion calibration.
+.. Note:: For 16 bit boards start at around 1500 steps/mm at 1/8 microstepping.
 
-Now for setting max retraction and optimal extruder settings. All of these settings apply to both the extruder steppers only.
+.. Note:: For 8 bit boards start at around 750 steps/mm at 1/4 microstepping.
+
+Your settings will probably be slightly different, so after setting this do the normal extrusion calibration.
+
+Configuring microstepping
+-------------------------
+
+Depending on your electronics microstepping will either be changed by altering jumpers, if your driver is configurable via software:
+
+| **Marlin:** 
+| If driver microstepping is settable via firmware.
+| #define MICROSTEP_MODES {x,y,z,e0,e1}
+| 
+| **Repetier:**
+| Usually configured via hardware jumpers.
+| 
+| **RepRap Firmware:**
+| https://duet3d.com/wiki/G-code#M350:_Set_microstepping_mode
+| 
+| **Smoothieware:**
+| http://smoothieware.org/extruder
+| Version 1.0 board has microstepping fixed at 1/16
+| Version 1.1 board fixed at 1/32. 
+| Adjust steps accordingly.
+| 
+
 
 Current for the steppers
------------------------
+------------------------
 
 The tuning of the stepper driver for efficient extrusion and retraction is a little different, than with a bowden system or other direct drive systems. Because the Nimble has so much torque available, you can/must run a much lower vref for your stepper than normal. This also helps getting the pulses across properly as you are not fighting decay in the pulses caused by too much current.
 (Yes there is such a thing, have a look at the excellent work Ryan Carlyle has done: https://github.com/rcarlyle/StepperSim )
@@ -32,6 +57,20 @@ Jerk value
 Another aspect you need to reduce is the jerk value as it helps to move the gears and drive cable in a smooth way. The goal here is to get smooth motion, not harsh forced movements. After you adjust the jerk settings, we suggest you leave them as set and do not use them to tune the retraction. They have little if any measurable impact on print speed anyway.
 
 .. Note:: Suggested jerk or instant speed change setting is 1 mm/sec
+
+| **Marlin:**
+| DEFAULT_EJERK = 1
+| 
+| **Repetier:**
+| EXT0_MAX_START_FEEDRATE = 1
+| 
+| **RepRap Firmware:**
+| M556 should have E value set to E1
+| 
+| **Smoothieware:**
+| http://smoothieware.org/motion-control#junction-deviation
+| Smoothie does not use jerk, you instead need to alter the Junction deviation setting, we suggest you start at 0.001 and work your way up in 0.001 increments.
+| 
 
 Retraction speed
 ----------------
