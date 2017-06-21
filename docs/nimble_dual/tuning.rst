@@ -56,7 +56,7 @@ Jerk value
 
 Another aspect you need to reduce is the jerk value as it helps to move the gears and drive cable in a smooth way. The goal here is to get smooth motion, not harsh forced movements. After you adjust the jerk settings, we suggest you leave them as set and do not use them to tune the retraction. They have little if any measurable impact on print speed anyway.
 
-.. Note:: Suggested jerk or instant speed change setting is 1 mm/sec
+.. Note:: Suggested jerk or instant speed change setting is 1 mm/sec or 60 mm/min
 
 | **Marlin:**
 | DEFAULT_EJERK = 1
@@ -65,7 +65,7 @@ Another aspect you need to reduce is the jerk value as it helps to move the gear
 | EXT0_MAX_START_FEEDRATE = 1
 | 
 | **RepRap Firmware:**
-| M556 should have E value set to E1
+| M556 should have E value set to E60 (as it is mm/min)
 | 
 | **Smoothieware:**
 | http://smoothieware.org/motion-control#junction-deviation
