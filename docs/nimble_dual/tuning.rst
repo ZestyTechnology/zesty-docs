@@ -65,7 +65,7 @@ Another aspect you need to reduce is the jerk value as it helps to move the gear
 | EXT0_MAX_START_FEEDRATE = 1
 | 
 | **RepRap Firmware:**
-| M556 should have E value set to E60 (as it is mm/min)
+| M556 should have E value set to E60 (as it is set per minute)
 | 
 | **Smoothieware:**
 | http://smoothieware.org/motion-control#junction-deviation
