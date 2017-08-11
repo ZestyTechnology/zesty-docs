@@ -3,11 +3,11 @@ Tuning the Firmware
 
 The Dual Nimble is a different beast to standard extruders and therefore requires some quite specific firmware changes if you hope to get optimal performance.
 
-.. Note:: For 32 bit boards start at around 3000 steps/mm at 1/16 microstepping.
+.. Note:: For 32 bit boards start at around 2400 steps/mm at 1/16 microstepping.
 
-.. Note:: For 16 bit boards start at around 1500 steps/mm at 1/8 microstepping.
+.. Note:: For 16 bit boards start at around 1200 steps/mm at 1/8 microstepping.
 
-.. Note:: For 8 bit boards start at around 750 steps/mm at 1/4 microstepping.
+.. Note:: For 8 bit boards start at around 600 steps/mm at 1/4 microstepping.
 
 Your settings will probably be slightly different, so after setting this do the normal extrusion calibration.
 
@@ -56,16 +56,16 @@ Jerk value
 
 Another aspect you need to reduce is the jerk value as it helps to move the gears and drive cable in a smooth way. The goal here is to get smooth motion, not harsh forced movements. After you adjust the jerk settings, we suggest you leave them as set and do not use them to tune the retraction. They have little if any measurable impact on print speed anyway.
 
-.. Note:: Suggested jerk or instant speed change setting is 1 mm/sec or 60 mm/min
+.. Note:: Suggested jerk or instant speed change setting is .016666667 mm/sec or 1 mm/min
 
 | **Marlin:**
-| DEFAULT_EJERK = 1
+| DEFAULT_EJERK = 0.01
 | 
 | **Repetier:**
-| EXT0_MAX_START_FEEDRATE = 1
+| EXT0_MAX_START_FEEDRATE = 0.01
 | 
 | **RepRap Firmware:**
-| M556 should have E value set to E60 (as it is set per minute)
+| M556 should have E value set to E1  (as it is set per minute)
 | 
 | **Smoothieware:**
 | http://smoothieware.org/motion-control#junction-deviation
