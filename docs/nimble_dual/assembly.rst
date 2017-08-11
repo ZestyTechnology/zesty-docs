@@ -262,8 +262,8 @@ Step 18
     :width: 286px
 
     Slide Drive Cable into Coupler 
-    * Now, take the drive cable itself (part L) and have a good look at it. You will see one side has square sides pressed into it. This is the Nimble side. 
-    * Slide the other end, the round end, into the Drive Cable Sleeve and thread it all the way through. It will slide into the Coupler. 
+    * Now, take the drive cable itself (part L), both sides have square sides pressed into it. Even this is reversible. 
+    * Slide one end into the Drive Cable Sleeve and thread it all the way through. It will slide into the Coupler. 
     * Slide it all the way down and clamp it using the remaining 5 set screws (part Y)
     * Do this for both steppers.
 
