@@ -1,4 +1,4 @@
-Calibrating the Dual Nimble
+Calibrating the Nimble C/C
 ===========================
 
 Because of the gear ratio inside the Nimble, There are a lot mor steps per millimeter than your usual number. 
@@ -41,7 +41,7 @@ The 1st nozzle is now set. Now for the second one.
 
 The idea is to get the paper to rotate around each nozzle with the same force needed. As Richard said: "This is fiddly and time consuming but can be done! "
 
-You have now set the extrusion rate of the Dual Nimble correctly and have the nozzles set right.
-You can now start Using the Dual Nimble.
+You have now set the extrusion rate of the Nimble C/C correctly and have the nozzles set right.
+You can now start Using the Nimble C/C.
 
 See the :doc:`Using the Nimble<./using>` page or click Next.
