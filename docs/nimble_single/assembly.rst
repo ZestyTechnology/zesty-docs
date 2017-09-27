@@ -109,9 +109,9 @@ Step 8
 
     Using another mount, check instructions. 
 
-    * For now use only 1 bolt (part T) to bolt the Nimble to the adapter or printer. This is done to lock it in and keep everything together while you prepare the drive cable and sleeve.
+    * For now use only 1 bolt (part T) to bolt the Nimble to the adapter or printer. This is done to lock it in and keep everything together while you prepare the drive cable and sleeve. You might need the M3 nuts here.
 
-    .. Note:: Here you might need the M3 nuts.
+    .. Note:: Do not overtighten these M3 bolts. Simply finger tight and then 1/4 turn is enough.
 
 Step 9
 ------
@@ -251,6 +251,8 @@ Step 19
     Use second bolt to affix Sleeve Clamp and Nimble in position
 
     * Now use the remaining screw (part T) and perhaps the remaining M3 nut, to bolt the Nimble to the printhead or effector. The Nimble is now installed. Have a good look to see if it all looks the way you think it should look and correct any things that do not look right. 
+    .. Note:: Do not tighten these M3 bolts too tight. Simply finger tight and then 1/4 turn is enough.    
+    
     * This is also the moment to adjust the direction of the drive cable, so that it forms a nice arch to the stepper, as mentioned in step 17. So loosen the short M3 screw from the half nut until you can just rotate the drive cable sleeve. Once it is in position, make sure it is seated properly by pressing down and then tighten the screw again.
      
 
