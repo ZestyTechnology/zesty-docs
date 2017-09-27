@@ -1,7 +1,7 @@
 Tuning the Firmware
 ===================
 
-The Dual Nimble is a different beast to standard extruders and therefore requires some quite specific firmware changes if you hope to get optimal performance.
+The Nimble C/C is a different beast to standard extruders and therefore requires some quite specific firmware changes if you hope to get optimal performance.
 
 .. Note:: For 32 bit boards start at around 2400 steps/mm at 1/16 microstepping.
 
@@ -94,7 +94,7 @@ Now comes the fun part. You can start playing with the acceleration and vref set
 Up to you and what your situation and printer needs. By playing with these settings you can fine tune the whole retraction process.
 Do try and keep the settings for both steppers the same. 
 
-You are now ready to start using the Dual Nimble, so go to the :doc:`Using the Dual Nimble<./using>` page or click Next.
+You are now ready to start using the Nimble C/C, so go to the :doc:`Using the Nimble C/C<./using>` page or click Next.
 
 Troubleshooting
 ---------------
