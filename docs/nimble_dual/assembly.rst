@@ -1,18 +1,18 @@
-Assembling a Dual Nimble
+Assembling a Nimble C/C
 ==========================
 
 Step 1
 ------
 
 .. figure:: images/2_step01.svg
-    :alt: Insert nuts into Dual base
+    :alt: Insert nuts into C/C base
     :height: 400px
     :width: 286px
 
-    Insert nuts into Dual base
+    Insert nuts into C/C base
 
-    * Take the Dual Nimble base (Part D) and place it upside down on the table. 
-    * Take 4 M3 nuts (part S) and place each into the pockets provided in the Dual base. The places are clear to recognise as they are the only hexagonal shaped holes on the base.
+    * Take the Nimble C/C base (Part D) and place it upside down on the table. 
+    * Take 4 M3 nuts (part S) and place each into the pockets provided in the C/C base. The places are clear to recognise as they are the only hexagonal shaped holes on the base.
     * The nuts need to be pushed all the way down and will lock into place. To make this easier, you can use a M3 screw like part T to screw into the nut and use that to push the nut down to the bottom of the hexagonal hole. 
 
 
@@ -26,7 +26,7 @@ Step 2
 
     Insert bearings for worms
 
-    * Turn the Dual base right side up and insert the two Worm Bearings (part P) into the housing.
+    * Turn the C/C base right side up and insert the two Worm Bearings (part P) into the housing.
     * This can require a little force. If you cannot get it right, you can use the Worm (part G) to push the bearings in properly.
 
 
@@ -34,29 +34,29 @@ Step 3
 ------  
 
 .. figure:: images/2_step03.svg
-    :alt: Mount Dual base on Chimera
+    :alt: Mount C/C base on Chimera/Cyclops
     :height: 400px
     :width: 286px
 
-    Insert PTFE tubing into Chimera
+    Insert PTFE tubing into Chimera/Cyclops
 
-    * Take the heat sink of the Chimera and insert some PTFE liner into the filament holes. 
-    * Make sure the liner protrudes the top of the heat sink by exactly 3 mm. This is only if the Dual base is bolted directly on top of the Chimera/Cyclops hot end.
-    * If an adapter is used, make sure the PTFE tube sticks up through the adapter by 3 mm. The Dual base has space in the bottom to lock the PTFE tube into place.
+    * Take the heat sink of the Chimera/Cyclops and insert some PTFE liner into the filament holes. 
+    * Make sure the liner protrudes the top of the heat sink by exactly 3 mm. This is only if the C/C base is bolted directly on top of the Chimera/Cyclops hot end.
+    * If an adapter is used, make sure the PTFE tube sticks up through the adapter by 3 mm. The C/C base has space in the bottom to lock the PTFE tube into place.
 
 
 Step 4
 ------  
 
 .. figure:: images/2_step04.svg
-    :alt: Mount Dual base on Chimera
+    :alt: Mount C/C base on Chimera/Cyclops
     :height: 400px
     :width: 286px
 
-    Mount Dual base on Chimera or adapter
+    Mount C/C base on Chimera/Cyclops or adapter
 
-    * Mount the Dual base on the Chimera. Use 3 M3 screws (part V) for this. 
-    * If the Dual is mounted using an adapter, check the adapter page to see if additional steps need to be taken. 
+    * Mount the C/C base on the Chimera/Cyclops. Use 3 M3 screws (part V) for this. 
+    * If the C/C is mounted using an adapter, check the adapter page to see if additional steps need to be taken. 
 
 
 Step 5
@@ -69,7 +69,7 @@ Step 5
 
     Insert worms
 
-    * Insert the 3 Worm gears (part G) into the bearings in the Dual base.
+    * Insert the 3 Worm gears (part G) into the bearings in the C/C base.
 
 Step 6
 ------
@@ -103,7 +103,7 @@ Step 7
 
     Mount gear shafts
 
-    * Fit the combined gear shaft and hob into the Dual base making sure the teeth of the gear mesh nicely with the worm gear. 
+    * Fit the combined gear shaft and hob into the C/C base making sure the teeth of the gear mesh nicely with the worm gear. 
 
 
 Step 8
@@ -125,13 +125,13 @@ Step 9
 ------
 
 .. figure:: images/2_step09.svg
-    :alt: Close Dual Nimble
+    :alt: Close Nimble C/C
     :height: 400px
     :width: 286px
 
-    Close the Dual Nimble
+    Close the Nimble C/C
 
-    * Close the Dual Nimble by placing the upper shells. 
+    * Close the Nimble C/C by placing the upper shells. 
     * Make sure the worm gear is seated nicely in the bearing and that the seam is completely closed. If not, it means that the bearings for the Worm are not properly seated. Press down until it is fully closed. 
     * Do this for both sides.
 
@@ -146,8 +146,9 @@ Step 10
 
     Insert 2 closing bolts
 
-    * For now use only 2 bolts (part T) to bolt the Dual Nimble together using the outer bolt holes. This is done to close the Dual and keep everything together while you complete the drive cable and sleeve.
+    * For now use only 2 bolts (part T) to bolt the Nimble C/C together using the outer bolt holes. This is done to close the C/C and keep everything together while you complete the drive cable and sleeve.
 
+    .. Note:: Do not tighten these M3 bolts too tight. Simply finger tight and a 1/4 turn is enough.
 
 Step 11
 -------
@@ -278,11 +279,11 @@ Step 19
 
     Slide Drive Cable Sleeve into Sleeve Clamp (Nimble side)
 
-    * Back to the Dual Nimble side.
+    * Back to the Nimble C/C side.
     * Slide the Sleeve, now containing the drive cable as well, into the next Sleeve Clamp (part C) and push it down as far as it will go. 
     * Use the M3 screw (part Z) and the half nut (part W) to clamp the sleeve. 
 
-    .. Note:: After mounting the Dual Nimble in place, you can loosen this screw a little to adjust the direction of the drive cable, allowing it to have a relaxed and free arch to the stepper.
+    .. Note:: After mounting the Nimble C/C in place, you can loosen this screw a little to adjust the direction of the drive cable, allowing it to have a relaxed and free arch to the stepper.
 
 
 Step 20
@@ -293,30 +294,33 @@ Step 20
     :height: 400px
     :width: 286px
 
-    Insert Drive Cable into worm gear inside Dual Nimble
+    Insert Drive Cable into worm gear inside Nimble C/C
 
     * Insert the drive cable into the worm and then slide it down. 
     * To place the sleeve clamp correctly, make sure you line up the bolt holes of the sleeve clamp and the Nimble and then with a rocking motion, slip the little lip into the space provided in the Nimble. 
     * Push down and the sleeve clamp should slip into position. 
     * This can take a little push the first time. As long as you make sure it is aligned properly, this is not a problem.
-    * Do this for both sides of the Dual Nimble.
+    * Do this for both sides of the Nimble C/C.
 
 
 Step 21
 -------
 
 .. figure:: images/2_step21.svg
-    :alt: Bolt Sleeve to Dual Nimble
+    :alt: Bolt Sleeve to Nimble C/C
     :height: 400px
     :width: 286px
 
-    Bolt Sleeve to Dual Nimble
+    Bolt Sleeve to Nimble C/C
 
-    * Now use the remaining screws (part T) to bolt the Sleeve clamp to the Dual Nimble base. 
-    * The Dual Nimble is now installed. 
+    * Now use the remaining screws (part T) to bolt the Sleeve clamp to the Nimble C/C base. 
+
+    .. Note:: Do not overtighten these M3 bolts. Simply finger tight and a 1/4 turn is enough.
+
+    * The Nimble C/C is now installed. 
     * Have a good look to see if all looks the way you think it should and correct any things that do not look right.
     * This is also the moment to adjust the direction of the drive cable, so that it forms a nice arch to the stepper, as mentioned in step 17. So loosen the short M3 screw from the half nut until you can just rotate the drive cable sleeve. Once it is in position, make sure it is seated properly by pressing down and then tighten the screw again. 
-    * Do this for both sides of the Dual Nimble
+    * Do this for both sides of the Nimble C/C
 
 
 Alternate positions
@@ -332,12 +336,12 @@ Alternate positions
     :height: 400px
     :width: 286px
 
-    Alternate positions of the Chimera block and the bolt positions used
+    Alternate positions of the Chimera/Cyclops block and the bolt positions used
 
-    * The Dual Nimble can be mounted in 2 different positions relative to the Chimera/Cyclops hot end. The heat end can be mounted with the fan at the back or at the front, compared to the breeches. 
+    * The Nimble C/C can be mounted in 2 different positions relative to the Chimera/Cyclops hot end. The heat end can be mounted with the fan at the back or at the front, compared to the breeches. 
     * Alternate bolt holes are provided to facilitate this other position.  
 
-Using the Dual Nimble
+Using the Nimble C/C
 #####################
 
 First run the extruders a minute or two, with no filament clamped. Just to bed the gears and drive cable in. Extrude and retract a few times. (You will have to switch off the temperature control as most controllers will not move the extruder stepper unless the hot end it up to temperature)
@@ -349,7 +353,7 @@ Insert filament
 
 To insert filament, open the breech blocks. You do this by squeezing together the "ears" of the breech block and pulling outwards. You can leave the shafts of the breech block in or, for better visibility, take the whole breech block out. 
 
-Now you can see the PTFE on the top of the Chimera (usually, depends on the adapter used) and slide the filament in. If the hot end is up to the correct temperature, you can purge the old filament by simply pushing down on the filament and feeding it into the hot end. After the old filament is cleared you can close the breech block.
+Now you can see the PTFE on the top of the Chimera/Cyclops (usually, depends on the adapter used) and slide the filament in. If the hot end is up to the correct temperature, you can purge the old filament by simply pushing down on the filament and feeding it into the hot end. After the old filament is cleared you can close the breech block.
 
 .. Note:: this is is an excellent way to get a sense of the efficiency of your hot end. You can feel the resistance of the hot end and how easy it is to push the filament through.
 
