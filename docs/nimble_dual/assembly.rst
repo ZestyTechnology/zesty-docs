@@ -265,7 +265,7 @@ Step 18
     Slide Drive Cable into Coupler 
     * Now, take the drive cable itself (part L), both sides have square sides pressed into it. Even this is reversible. 
     * Slide one end into the Drive Cable Sleeve and thread it all the way through. It will slide into the Coupler. 
-    * Slide it all the way down and clamp it using the remaining 5 set screws (part Y)
+    * Slide it all the way down and clamp it using the remaining 4 set screws (part Y)
     * Do this for both steppers.
 
 
