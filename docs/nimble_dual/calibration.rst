@@ -3,7 +3,7 @@ Calibrating the Nimble C/C
 
 Because of the gear ratio inside the Nimble, There are a lot mor steps per millimeter than your usual number. 
 
-.. note:: Start with 3000 steps/mm with a 1.8deg stepper and 1/16 microstepping
+.. note:: Start with 2700 steps/mm with a 1.8deg stepper and 1/16 microstepping
 
 The Nimble has a nice flat surface you can use to set the ruler on, when measuring the filament, simply place it on top of the "ears" of the breech block.
 Use a light coloured filament, place it in the breech, heat up the hot end and start the process.
