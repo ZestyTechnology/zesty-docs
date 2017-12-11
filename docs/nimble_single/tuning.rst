@@ -3,7 +3,7 @@ Tuning the Firmware
 
 The Nimble is a different beast to standard extruders and therefore requires some quite specific firmware changes if you hope to get optimal performance. We recommend use of a 1.8 degree stepper, 0.9 degree stepers are great for your other axis, but with the Nimble it's just not required or advisable.
 
-.. Note:: For 32 bit boards start at around 2400 steps/mm at 1/16 microstepping.
+.. Note:: For 32 bit boards start at around 2700 steps/mm at 1/16 microstepping.
 
 .. Note:: For 16 bit boards start at around 1200 steps/mm at 1/8 microstepping.
 
