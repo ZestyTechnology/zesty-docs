@@ -69,7 +69,7 @@ Step 5
 
     Insert worms
 
-    * Insert the 3 Worm gears (part G) into the bearings in the C/C base.
+    * Apply grease from silver packet to the Worms (part G) then insert in the bearings in the C/C base.
 
 Step 6
 ------
