@@ -27,7 +27,7 @@ Step 2
 
     Insert worm
 
-    * You might have done this already to force the bearing in, but place the Worm (part G) in the bearing of the Bottom housing.
+    * Apply grease from silver packet to the Worm (part G) then insert in the bearing of the Bottom housing.
 
 Step 3
 ------
