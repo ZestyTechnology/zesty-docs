@@ -1,9 +1,9 @@
 Tuning the Firmware
 ===================
 
-The Nimble is a different beast to standard extruders and therefore requires some quite specific firmware changes if you hope to get optimal performance. We recommend use of a 1.8 degree stepper, 0.9 degree stepers are great for your other axis, but with the Nimble it's just not required or advisable.
+The Sidewinder is a different beast to standard extruders and therefore requires some quite specific firmware changes if you hope to get optimal performance. We recommend use of a 1.8 degree stepper, 0.9 degree stepers are great for your other axis, but with the Nimble it's just not required or advisable.
 
-.. Note:: For 32 bit boards start at around 2400 steps/mm at 1/16 microstepping.
+.. Note:: For 32 bit boards start at around 2700 steps/mm at 1/16 microstepping.
 
 .. Note:: For 16 bit boards start at around 1200 steps/mm at 1/8 microstepping.
 
@@ -34,8 +34,8 @@ Depending on your electronics microstepping will either be changed by altering j
 | 
 
 
-Current for the stepper
------------------------
+Current for the steppers
+------------------------
 
 The tuning of the stepper driver for efficient extrusion and retraction is a little different, than with a bowden system or other direct drive systems. Because the Nimble has so much torque available, you can/must run a much lower vref for your stepper than normal. This also helps getting the pulses across properly as you are not fighting decay in the pulses caused by too much current.
 (Yes there is such a thing, have a look at the excellent work Ryan Carlyle has done: https://github.com/rcarlyle/StepperSim )
@@ -92,9 +92,10 @@ Now comes the fun part. You can start playing with the acceleration and vref set
 	- Or you can reduce the retraction speed. 
 
 Up to you and what your situation and printer needs. By playing with these settings you can fine tune the whole retraction process.
+Do try and keep the settings for both steppers the same. 
+
+You are now ready to start using the Sidewinder, so go to the :doc:`Using the Sidewinder<./using>` page or click Next.
 
 Troubleshooting
 ---------------
 If these settings do not work for you, the first thing to try is to reduce the jerk setting. You can go as low as 0.1 mm/sec as the jerk setting has virtually no impact on your total print time. If you still find you cannot retract at the speed you need, reduce, let me repeat that, reduce the vref even further. You can go down as low as 0.1V. If it still does not work as you expect, contact us on chat and we will have a lively discussion about it.
-
-One more step, calibrating the extrusion length. Go to the :doc:`Calibration of the Nimble<./calibration>` page or click Next.

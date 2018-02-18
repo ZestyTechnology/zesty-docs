@@ -71,7 +71,7 @@ Great, done. The filament is loaded. That took about a minute or so to read, but
 Tips and tricks
 ---------------
 
-When the breech block is open en there is no filament, you have a good opportunity to have a look at the hob, to see if it is clean. 
+When the breech block is open and there is no filament, you have a good opportunity to have a look at the hob, to see if it is clean. 
 
 When inserting the filament and IF the hot end is up to working temperature, you can use the filament to purge the rest of the previous filament. 
 Simply press the filament down into the hot end, without the breech in place. You can feel the filament melt and be pushed through the melt zone and out the nozzle. Do so until all the previous filament is gone.

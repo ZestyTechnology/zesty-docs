@@ -10,7 +10,7 @@ Zesty Technology
    :maxdepth: 2
    :caption: Nimble Documentation:
 
-   nimble_single/index
-   nimble_dual/index
+   nimble/index
+   sidewinder/index
    nimble_adapters
    nimble_maintenance
