@@ -39,7 +39,8 @@ Step 3
     :height: 400px
     :width: 286px
 
-    * Apply grease from silver packet to the Worm (part G) then insert in the bearing of the Top Housing.
+    Apply grease from silver packet to the Worm (part G) then insert in the bearing of the Top Housing.
+    
     * Slide the Worm Lid over the Worm and close the top half of the Sidewinder.
 
 
@@ -79,7 +80,7 @@ Step 5
 Step 6
 ------
 
-.. figure:: images/2_step06.svg
+.. figure:: images/step06.svg
     :alt: Insert gear set in bottom housing
     :height: 400px
     :width: 286px
@@ -153,7 +154,7 @@ Step 11
 
     * Mount the stepper to your printer frame. The image shows it being mounted to a 20x20 aluminium profile. 
     
-    .. Note:: Other methods can be; mounting it to the base, attaching it to a bracket and mounting that to your printer or any other way of fixing the stepper to your printer. The mounting hardware is not included with the Nimble.
+    .. Note:: Other methods can be; mounting it to the base, attaching it to a bracket and mounting that to your printer or any other way of fixing the stepper to your printer. The mounting hardware is not included.
 
 Step 12
 -------
@@ -216,18 +217,6 @@ Step 15
 Step 16
 -------
 
-.. figure:: ../nimble/images/1_step15.svg
-    :alt: Bolt Sleeve Clamp to Bracket
-    :height: 400px
-    :width: 286px
-
-    Bolt Sleeve Clamp to Bracket
-
-    * Use the M3 screw (part V) to bolt the sleeve clamp to the bracket. 
-
-Step 17
--------
-
 .. figure:: ../nimble/images/1_step16.svg
     :alt: Slide Drive Cable into Coupler
     :height: 400px
@@ -239,7 +228,7 @@ Step 17
     * Slide one end into the Drive Cable Sleeve and thread it all the way through. It will slide into the Coupler. 
     * Slide it all the way down and clamp it using the remaining 4 set screws (part Y)
 
-Step 18
+Step 17
 -------
 
 .. figure:: ../nimble/images/1_step17.svg
@@ -247,15 +236,15 @@ Step 18
     :height: 400px
     :width: 286px
 
-    Slide Drive Cable Sleeve into Sleeve Clamp (Nimble side) 
+    Slide Drive Cable Sleeve into Sleeve Clamp (Sidewinder side) 
 
-    * Back to the Nimble side. 
+    * Back to the Sidewinder side. 
     * Slide the Sleeve, now containing the drive cable as well, into the next Sleeve Clamp (part C) and push it down as far as it will go. Use the M3 screw (part Z) and the half nut (part W) to clamp the sleeve. 
 
-    .. Note:: After mounting the Nimble in place, you can loosen this screw a little to adjust the direction of the drive cable. Allow it to have a relaxed and free arch to the stepper.
+    .. Note:: After mounting the Sidewinder in place, you can loosen this screw a little to adjust the direction of the drive cable. Allow it to have a relaxed and free arch to the stepper.
 
 
-Step 19
+Step 18
 -------
 
 .. figure:: images/step19.svg
@@ -271,7 +260,7 @@ Step 19
     .. Note:: Make sure you insert the Sleeve Clamp in such a way that once rotated in position, the bolt hole lines up with the bolt hole on the Worm lid and Upper Housing.
 
 
-Step 20
+Step 19
 -------
 
 .. figure:: images/step20.svg
