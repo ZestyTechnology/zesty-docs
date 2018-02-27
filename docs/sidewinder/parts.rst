@@ -55,6 +55,7 @@ Drive System
     F, Drive cable sleeve , 1  ,  Z0N-07-0032
     G, Worm gear  ,  1  ,   Z0N-07-0033
     H, Gear wheel ,  1 ,    Z0N-07-0034
+    I, spacer ring ,  1 ,    Z0N-20-0049
     J, Gear shaft,   1  , Z0N-20-0007
     K, Pressure shaft , 1 , Z0N-20-0022
     L, Drive cable  ,   1 ,   Z0N-20-0023
