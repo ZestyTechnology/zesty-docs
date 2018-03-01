@@ -123,7 +123,7 @@ Step 9
 
     Mount stepper to Bracket
 
-    * Moving to the other end, the stepper. Mounting the Bracket (part M) to your stepper, using the M3 screws and washers (V and X). The center hole will make sure the stepper is centered in the Bracket. If the center hole is too big, please try to center the Bracket as perfectly as you can.
+    * Moving to the other end, the stepper. Mounting the Bracket (part M) to your stepper, using the M3 screws (V). The center hole will make sure the stepper is centered in the Bracket. If the center hole is too big, please try to center the Bracket as perfectly as you can.
 
 Step 10
 -------
