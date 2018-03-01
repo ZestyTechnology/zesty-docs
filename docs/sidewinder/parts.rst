@@ -75,6 +75,5 @@ Fastening
     T4, M3 Cap screw x 14, 2, Z0N-25-0067
     Z, M3 Cap screw x 8,   7,   Z0N-25-0056
     W, M3 Jam nut (half height),   2,   Z0N-25-0057
-    X, M3 washers ,  4,   Z0N-25-0058
     Y, M3 Set screws x 6,   6,   Z0N-25-0004
     S, M3 Nut ,  1,   Z0N-25-0061
