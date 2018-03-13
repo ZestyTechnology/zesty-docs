@@ -26,7 +26,8 @@ Body
    
     A, Bottom half ,  1 ,  Z0N-07-0027
     B, Top half ,  1,   Z0N-07-0028
-    C, Drive cable clamp ,  2  , Z0N-07-0029
+    C1, Drive cable clamp Bracket side,  2  , Z0N-07-0029
+    C2, Drive cable clamp Nimble side,  2  , Z0N-07-0029
     D, Groove mount adapter  , 1 ,  Z0N-07-0030
 
 
@@ -69,7 +70,7 @@ Fastening
    :widths: 5, 40, 5, 20
    
     T, M3 Cap screw x 40, 2, Z0N-25-0060
-    V, M3 Cap screw x 6,   5,   Z0N-25-0032
+    V, M3 Cap screw x 6,   4,   Z0N-25-0032
     Z, M3 Cap screw x 8,   2,   Z0N-25-0056
     W, M3 Jam nut (half height),   2,   Z0N-25-0057
     Y, M3 Set screws x 6,   6,   Z0N-25-0004
