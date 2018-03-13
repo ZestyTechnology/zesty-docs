@@ -184,22 +184,18 @@ Step 14
     :height: 400px
     :width: 286px
 
-    Insert Sleeve clamp into stepper bracket, taking note of the lip
+    Insert Sleeve clamp into stepper bracket, taking note of the 3 tabs
 
     * Mount the Sleeve Clamp to the Bracket.
-    * Take care of the little lip. So insert the sleeve clamp using a little rocking motion. This lip prevents the sleeve clamp from lifting up during use.
+    * There is a flat tab with a bump underneath, that should line up with the hole after locking the sleeve clamp in place. It should click into the small hole in the bracket.
 
 Step 15
 -------
 
-.. figure:: images/1_step15.svg
-    :alt: Bolt Sleeve Clamp to Bracket
-    :height: 400px
-    :width: 286px
+    This could need force, we designed it to be tight. 
 
-    Bolt Sleeve Clamp to Bracket
-
-    * Use the M3 screw (part V) to bolt the sleeve clamp to the bracket. 
+    * If it takes too much force, use a adjustable wrench or something for the first time. 
+    * It needs to be tight as the surface of the clamp smooths out over time. 
 
 Step 16
 -------
@@ -238,7 +234,7 @@ Step 18
 
     Insert square end of Drive Cable into worm gear inside Nimble
 
-    * Insert the drive cable into the worm and then slide it down. To place the sleeve clamp correctly, make sure you line up the bolt hole of the sleeve clamp and on the Nimble and then with a rocking motion, insert the little lip into the space provided in the Nimble. Push down and the sleeve clamp should slip into position. This can take a little push the first time. As long as you make sure it is aligned properly, this is not a problem.
+    * Insert the drive cable into the worm and then slide it down. To place the sleeve clamp correctly, make sure you line up the tabs with the 3 slots on the Nimble and in such a way that when locked, the screw in the next step fits inside the notch. This can take a little push the first time. As long as you make sure it is aligned properly, this is not a problem.
 
 Step 19
 -------
