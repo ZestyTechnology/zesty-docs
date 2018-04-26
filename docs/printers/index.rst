@@ -10,6 +10,6 @@ Printer specific instructions
 
 .. toctree::
    :maxdepth: 1
-   :caption: CR-10:
+   :caption: Creality CR-10 (and analogues):
 
    cr-10/index
