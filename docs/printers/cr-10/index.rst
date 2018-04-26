@@ -245,7 +245,7 @@ Step 2
 
     Insert the filament into the PTFE tube inside the Sidewinder.
 
- Step 3
+Step 3
 -------
 
 .. figure:: images/Use3_opt.jpg
@@ -255,7 +255,7 @@ Step 2
    
    Close the Breech, making sure it latches properly.
 
- Step 4
+Step 4
 -------
 
 .. figure:: images/Use4_opt.jpg
@@ -265,7 +265,7 @@ Step 2
 
     If you are using the rest of the bodwen tube to guide the filament, slide it down and push it into the Sidewinder.
 
-   Step 5
+Step 5
 -------
 
 .. figure:: images/Use5_opt.jpg
@@ -296,9 +296,9 @@ Optional extra's
 ================
 
 We have a few optional extra's that are available on Thingiverse.
-New air duct for print cooling, using tusks.
-https://www.thingiverse.com/thing:2772134
 
-Small tray to support the drive cable above the X stepper. https://www.thingiverse.com/thing:2802704
+*New air duct for print cooling, using tusks. https://www.thingiverse.com/thing:2772134
 
-Extra mount to hold the bowden tube at the filament sensor. 
+*Small tray to support the drive cable above the X stepper. https://www.thingiverse.com/thing:2802704
+
+*Extra mount to hold the bowden tube at the filament sensor. 
