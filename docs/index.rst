@@ -12,6 +12,6 @@ Zesty Technology
 
    nimble/index
    sidewinder/index
+   printers/index
    nimble_adapters
    nimble_maintenance
-   printers/index
