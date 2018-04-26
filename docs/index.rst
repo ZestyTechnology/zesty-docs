@@ -14,3 +14,4 @@ Zesty Technology
    sidewinder/index
    nimble_adapters
    nimble_maintenance
+   printer/cr-10/index
