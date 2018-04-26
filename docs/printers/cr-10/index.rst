@@ -276,7 +276,7 @@ Step 2
     This is what it looks like as you are ready to print!
     * all that needs to be done now is add some start gcode to your slicer.
 
-Confiruring the Slicer
+Configuring the Slicer
 ======================
 
 You do not need to adjust anything to your material profiles or layer settings. All you need to do is set start commands for your printer. 
