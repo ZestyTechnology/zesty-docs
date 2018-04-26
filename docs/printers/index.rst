@@ -12,4 +12,4 @@ Nimble
    :maxdepth: 2
    :caption: Printer specific instructions:
 
-   cr-10
+   cr-10/index
