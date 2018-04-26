@@ -9,7 +9,7 @@ Printer specific instructions
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Printer specific instructions:
 
    cr-10/index
