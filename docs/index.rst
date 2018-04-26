@@ -7,7 +7,7 @@ Zesty Technology
 ========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Nimble Documentation:
 
    nimble/index
