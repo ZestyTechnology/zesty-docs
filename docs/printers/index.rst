@@ -3,15 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Zesty Technology
-========================================
+Nimble 
+===============
+
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Nimble Documentation:
+   :caption: Printer specific instructions:
 
-   nimble/index
-   sidewinder/index
-   nimble_adapters
-   nimble_maintenance
-   printers/index
+   cr-10
