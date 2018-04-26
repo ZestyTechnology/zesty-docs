@@ -1,4 +1,4 @@
-Setting up a CR-10
+Installing the Nimble
 ==================
 
 If you aren't using our CR-10 Kit, you can skip to the section after Step 11 titled Stepper control.
