@@ -72,7 +72,7 @@ Fastening
     T1, M3 Cap screw x 30, 1, Z0N-25-0065
     T2, M3 Cap screw x 25, 1, Z0N-25-0055
     T3, M3 Cap screw x 20, 1, Z0N-25-0066
-    T4, M3 Cap screw x 14, 2, Z0N-25-0067
+    T4, M3 Cap screw x 14, 1, Z0N-25-0067
     Z, M3 Cap screw x 8,   7,   Z0N-25-0056
     W, M3 Jam nut (half height),   2,   Z0N-25-0057
     Y, M3 Set screws x 6,   6,   Z0N-25-0004
