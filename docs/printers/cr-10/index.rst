@@ -16,10 +16,10 @@ Step 1
 Step 2
 ------   
 
-.. figure:: images/step8_opt.jpg
+.. figure:: images/Step8_opt.jpg
     :alt: Insert nuts in base
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
    
     Insert 3 x M3 nuts into the nut traps underneath the Nimble Sidewinder mounting block.
     
@@ -31,8 +31,8 @@ Step 3
 
 .. figure:: images/Step11_opt.jpg
     :alt: Mount adapter block
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
 
     Slide the mount block in sideways, making sure no wires are trapped on the right hand side.
     * Push the block to the left and down, till the right side clicks into the opening.
@@ -42,8 +42,8 @@ Step 4
 
 .. figure:: images/Step12_opt.jpg
     :alt: Insert mount screw
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
 
     Pull the block forward until the mount screw will slide down into the hot end.
  
@@ -57,7 +57,7 @@ Step 5
     :width: 286px
 
    Use a 4mm allen key to screw in the mount screw.
-
+   * Make sure the Mount Screw has no powder left inside.  
 
 Step 6
 ------
@@ -72,8 +72,8 @@ Step 7
 
 .. figure:: images/Step15_opt.jpg
     :alt: Slicing off extra PTFE
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
 
    Slice off the PTFE tube at the top Flush with the top of the mounting screw.
 
@@ -82,8 +82,8 @@ Step 8
 
 .. figure:: images/Step16_opt.jpg
     :alt: Mounting bottom half of Sidewinder
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
 
     Fit the Bottom half of the Nimble Sidewinder 
 
@@ -96,15 +96,15 @@ Step 9
 
 .. figure:: images/Step18a_opt.jpg
     :alt: Insert gear set
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
 
     Insert the gear shaft with bearings, then close with the top half of the Nimble Sidewinder 
 
 .. figure:: images/Step18b_opt.jpg
     :alt: Insert gear set
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
 
     Use the next screw, M3x25 to tighten down the top half, in hole 2.
     * Do not overtighten these M3 bolts. Simply finger tight and then an additional 1/4 turn is enough.
@@ -118,11 +118,6 @@ Step 10
 
 Step 11
 -------
-
-.. figure:: images/Step13_opt.jpg
-    :alt: Connect drive cable
-    :height: 800px
-    :width: 516px
 
     Insert the drive cable, via the connected sleeve clamp, in to the Worm and lock it in by rotating the Sleeve clamp.
     Place the M3 nut against the hole in the Top Housing and use the last screw, the M3x20, to lock the Sleeve clamp, Worm lid and Top housing together.
@@ -146,8 +141,8 @@ Step 12
 
 .. figure:: images/cable1_opt.jpg
     :alt: Standard wiring for stepper
-    :height: 800px
-    :width: 500px
+    :height: 500px
+    :width: 800px
 
     This is how it looks before modification.
 
@@ -161,8 +156,8 @@ Step 13
 
 .. figure:: images/cable2_opt.jpg
     :alt: New state of the wiring for the stepper
-    :height: 800px
-    :width: 500px
+    :height: 500px
+    :width: 800px
 
     This is what it looks like after you are done.
 
@@ -173,8 +168,8 @@ Step 14
 
 .. figure:: images/Box1_opt.jpg
     :alt: Base of the control box
-    :height: 800px
-    :width: 500px
+    :height: 500px
+    :width: 800px
 
     Undo these 5 screws, take off the base plate and put it aside. 
 
@@ -185,8 +180,8 @@ Step 15
 
 .. figure:: images/Box2_opt.jpg
     :alt: Side of the control box
-    :height: 800px
-    :width: 500px
+    :height: 500px
+    :width: 800px
 
     Undo the four screws on the side.
     Lift out the power unit and put it on the side where the control cables come out. 
@@ -195,8 +190,8 @@ Step 15
 
     .. figure:: images/Box3_opt.jpg
     :alt: Inside of the control box
-    :height: 800px
-    :width: 500px
+    :height: 500px
+    :width: 800px
 
     Now you can see the control board. Isn't small!
 
@@ -205,8 +200,8 @@ Step 16
 
 .. figure:: images/Box3_opt.jpg
     :alt: Control board
-    :height: 800px
-    :width: 500px
+    :height: 500px
+    :width: 800px
 
     The POT meter you need to adjust the Vref on is shown as is the Groun point you can use. 
     * Adjust it to roughly 0.25 V. You do this by measuring the voltage between the center of the POT meter and the Ground using a multimeter.
@@ -230,8 +225,8 @@ Step 1
 
 .. figure:: images/Use1_opt.jpg
     :alt: Opening the breech
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
 
     Open the Breech block by squeezing the "ears" together.
 
@@ -240,8 +235,8 @@ Step 2
 
 .. figure:: images/Use2_opt.jpg
     :alt: Inserting Filament
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
 
     Insert the filament into the PTFE tube inside the Sidewinder.
 
@@ -250,8 +245,8 @@ Step 3
 
 .. figure:: images/Use3_opt.jpg
     :alt: Closing the breech
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
    
    Close the Breech, making sure it latches properly.
 
@@ -260,8 +255,8 @@ Step 4
 
 .. figure:: images/Use4_opt.jpg
     :alt: Using a reverse Bowden tube
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
 
     If you are using the rest of the bodwen tube to guide the filament, slide it down and push it into the Sidewinder.
 
@@ -270,8 +265,8 @@ Step 5
 
 .. figure:: images/Use5_opt.jpg
     :alt: Ready to print
-    :height: 800px
-    :width: 516px
+    :height: 516px
+    :width: 800px
 
     This is what it looks like as you are ready to print!
     * all that needs to be done now is add some start gcode to your slicer.
