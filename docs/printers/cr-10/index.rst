@@ -115,15 +115,15 @@ Step 9
 Step 10
 ------
 
-    Insert the worm into the top half and close using the Worm lid.
-    Use the M3x30 screw to bolt the top half to the mounting block, in hole 3.
+Insert the worm into the top half and close using the Worm lid.
+Use the M3x30 screw to bolt the top half to the mounting block, in hole 3.
 
 
 Step 11
 -------
 
-    Insert the drive cable, via the connected sleeve clamp, in to the Worm and lock it in by rotating the Sleeve clamp.
-    Place the M3 nut against the hole in the Top Housing and use the last screw, the M3x20, to lock the Sleeve clamp, Worm lid and Top housing together.
+Insert the drive cable, via the connected sleeve clamp, in to the Worm and lock it in by rotating the Sleeve clamp.
+Place the M3 nut against the hole in the Top Housing and use the last screw, the M3x20, to lock the Sleeve clamp, Worm lid and Top housing together.
     
     .. Note:: You can use the cloth tape that you took off in the second step to keep the drive cable sleeve and the wires in the braided sleeve together, if you want.
 
@@ -169,7 +169,7 @@ Step 14
 -------
 
 Unplug the power supply for now.
-    Place the control box upside down, after removing the spool holder if you use it.
+Place the control box upside down, after removing the spool holder if you use it.
 
 .. figure:: images/Box1_opt.jpg
     :alt: Base of the control box
