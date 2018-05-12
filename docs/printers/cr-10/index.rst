@@ -14,7 +14,7 @@ Step 1
 
 
 Step 2
-------   
+------
 
 .. figure:: images/Step8_opt.jpg
     :alt: Insert nuts in base
@@ -27,7 +27,7 @@ Step 2
 
 
 Step 3
-------  
+------
 
 .. figure:: images/Step11_opt.jpg
     :alt: Mount adapter block
@@ -35,10 +35,11 @@ Step 3
     :width: 800px
 
     Slide the mount block in sideways, making sure no wires are trapped on the right hand side.
+    
     * Push the block to the left and down, till the right side clicks into the opening.
 
 Step 4
-------  
+------
 
 .. figure:: images/Step12_opt.jpg
     :alt: Insert mount screw
@@ -49,22 +50,23 @@ Step 4
  
 
 Step 5
-------  
+------
        
 .. figure:: images/Step13_opt.jpg
     :alt: Screw mount into hot end
     :height: 400px
     :width: 286px
 
-   Use a 4mm allen key to screw in the mount screw.
-   * Make sure the Mount Screw has no powder left inside.  
+    Use a 4mm allen key to screw in the mount screw.
+
+    * Make sure the Mount Screw has no powder left inside.  
 
 Step 6
 ------
 
-   Slide the PTFE tube all the way down. 
+    Slide the PTFE tube all the way down. 
 
-   *Roughly 50mm into the hot end. Total length of the PTFE tube is 48.8 mm
+    * Roughly 50mm into the hot end. Total length of the PTFE tube is 48.8 mm
 
 
 Step 7
@@ -75,7 +77,7 @@ Step 7
     :height: 516px
     :width: 800px
 
-   Slice off the PTFE tube at the top Flush with the top of the mounting screw.
+    Slice off the PTFE tube at the top Flush with the top of the mounting screw.
 
 Step 8
 ------
@@ -107,6 +109,7 @@ Step 9
     :width: 800px
 
     Use the next screw, M3x25 to tighten down the top half, in hole 2.
+
     * Do not overtighten these M3 bolts. Simply finger tight and then an additional 1/4 turn is enough.
 
 Step 10
@@ -204,6 +207,7 @@ Step 16
     :width: 800px
 
     The POT meter you need to adjust the Vref on is shown as is the Groun point you can use. 
+
     * Adjust it to roughly 0.25 V. You do this by measuring the voltage between the center of the POT meter and the Ground using a multimeter.
 
     .. Note:: You will have to plug in the power and switch on the machine to test this, so be careful! Ideally use a non-conductive screwdriver to adjust the pot.
@@ -248,7 +252,7 @@ Step 3
     :height: 516px
     :width: 800px
    
-   Close the Breech, making sure it latches properly.
+    Close the Breech, making sure it latches properly.
 
 Step 4
 -------
@@ -269,6 +273,7 @@ Step 5
     :width: 800px
 
     This is what it looks like as you are ready to print!
+
     * all that needs to be done now is add some start gcode to your slicer.
 
 Configuring the Slicer
@@ -292,8 +297,8 @@ Optional extra's
 
 We have a few optional extra's that are available on Thingiverse.
 
-*New air duct for print cooling, using tusks. https://www.thingiverse.com/thing:2772134
+* New air duct for print cooling, using tusks. https://www.thingiverse.com/thing:2772134
 
-*Small tray to support the drive cable above the X stepper. https://www.thingiverse.com/thing:2802704
+* Small tray to support the drive cable above the X stepper. https://www.thingiverse.com/thing:2802704
 
-*Extra mount to hold the bowden tube at the filament sensor. 
+* Extra mount to hold the bowden tube at the filament sensor. 
