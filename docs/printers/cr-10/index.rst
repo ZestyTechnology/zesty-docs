@@ -54,8 +54,8 @@ Step 5
        
 .. figure:: images/Step13_opt.jpg
     :alt: Screw mount into hot end
-    :height: 400px
-    :width: 286px
+    :height: 516px
+    :width: 800px
 
     Use a 4mm allen key to screw in the mount screw.
 
