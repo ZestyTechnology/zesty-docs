@@ -35,7 +35,7 @@ Step 3
     :width: 800px
 
     Slide the mount block in sideways, making sure no wires are trapped on the right hand side.
-    
+
     * Push the block to the left and down, till the right side clicks into the opening.
 
 Step 4
@@ -64,9 +64,9 @@ Step 5
 Step 6
 ------
 
-    Slide the PTFE tube all the way down. 
+Slide the PTFE tube all the way down. 
 
-    * Roughly 50mm into the hot end. Total length of the PTFE tube is 48.8 mm
+* Roughly 50mm into the hot end. Total length of the PTFE tube is 48.8 mm
 
 
 Step 7
@@ -216,8 +216,8 @@ Step 16
 Step 17
 -------
     
-    Done! 
-    Put the power unit back, using the four screws and then close the control box with the base plate.
+Done! 
+Put the power unit back, using the four screws and then close the control box with the base plate.
 
 
 Using the Sidewinder
