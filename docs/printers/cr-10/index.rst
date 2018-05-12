@@ -270,7 +270,7 @@ Step 5
 .. figure:: images/Use5_opt.jpg
     :alt: Ready to print
     :height: 516px
-    :width: 800p
+    :width: 800px
 
     This is what it looks like as you are ready to print!
 
