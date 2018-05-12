@@ -191,7 +191,7 @@ Step 15
 
     .. Note:: Support it with something roughly the same height as the control box. 
 
-    .. figure:: images/Box3_opt.jpg
+.. figure:: images/Box3_opt.jpg
     :alt: Inside of the control box
     :height: 500px
     :width: 800px
