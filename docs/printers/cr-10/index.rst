@@ -283,13 +283,14 @@ Configuring the Slicer
 
 You do not need to adjust anything to your material profiles or layer settings. All you need to do is set start commands for your printer. 
 So in your slicer, open the Printer settings and add the following code to your Startup Gcode:
+::
 
-;Marlin Setup g.code
-M92 E2650   ; Set steps/mm extrusion
-M201 E120   ; Set Extruder acceleration 
-M204 T120   ; Set Retract acceleration
-M205 E3     ; Set Extruder Jerk
-M203 E45    ; Maximum feed rate
+    ;Marlin Setup g.code
+    M92 E2650   ; Set steps/mm extrusion
+    M201 E120   ; Set Extruder acceleration 
+    M204 T120   ; Set Retract acceleration
+    M205 E3     ; Set Extruder Jerk
+    M203 E45    ; Maximum feed rate
 
 .. Note:: These settings are correct, but it is always a good idea to see them as a starting point and then tweak settings on your system for optimal results.
 
