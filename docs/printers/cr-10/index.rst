@@ -152,8 +152,9 @@ Step 12
 Step 13
 -------
 
-    At the plug you will see little plastic tabs. One by one, lift these two and gently pull the wire out.
-    Switch these two wires.
+At the plug you will see little plastic tabs. One by one, lift these two and gently pull the wire out.
+
+Switch these two wires.
 
     .. Note:: So, counting from the orange tab, the outside wire goes into the second spot and the second wire goes into the fourth spot.
 
@@ -166,7 +167,8 @@ Step 13
 
 Step 14
 -------
-    Unplug the power supply for now.
+
+Unplug the power supply for now.
     Place the control box upside down, after removing the spool holder if you use it.
 
 .. figure:: images/Box1_opt.jpg
@@ -179,7 +181,7 @@ Step 14
 Step 15
 -------
 
-    Now you see the power unit, this needs to be moved aside, but the wires can all stay connected.
+Now you see the power unit, this needs to be moved aside, but the wires can all stay connected.
 
 .. figure:: images/Box2_opt.jpg
     :alt: Side of the control box
