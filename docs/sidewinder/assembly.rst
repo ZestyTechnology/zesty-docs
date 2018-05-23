@@ -1,6 +1,12 @@
 Assembling a Sidewinder
 ==========================
 
+Before we begin
+---------------
+
+Because of the process used to make the plastic parts (SLS) there is a possibility of powder remaining inside some of the smaller openings. For instance, there might still be a little powder left in the holes for the mounting bolts. 
+This is the moment to inspect the parts and to make sure they are all powder free. 
+
 Step 1
 ------
 
