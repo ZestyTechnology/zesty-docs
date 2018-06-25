@@ -92,7 +92,7 @@ Step 6
     :width: 286px
 
     Fit the combined gear shaft and hob into the Bottom Housing.
-
+    * Place a little bit of the grease in the teeth of the gear. Just a few drops is enough.
 
 Step 7
 ------
