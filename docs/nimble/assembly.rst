@@ -68,6 +68,7 @@ Step 4
     Mount gear shaft
 
     * Fit the combined gear shaft and hob into the Nimble making sure the teeth of the gear mesh nicely with the worm gear.
+    * Place a little bit of the grease in the teeth of the gear. Just a few drops is enough.
 
 Step 5
 ------
