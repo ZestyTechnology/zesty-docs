@@ -5,8 +5,8 @@ Here is a complete list of all the parts of the Kryo including the quantity need
 
 .. figure:: images/3_all_parts.svg
     :alt: All parts of the Zesty Cryo
-    :height: 800px
-    :width: 572px
+    :height: 572px
+    :width: 800px
 
     Parts layout
 
