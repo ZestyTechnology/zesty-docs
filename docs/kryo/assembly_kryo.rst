@@ -87,9 +87,9 @@ Step 6
 Step 7
 ------
 
-    Mount the Hydro unit as normal with the groove mount. 
+Mount the Hydro unit as normal with the groove mount. 
 
-    .. Note:: To mount the unit use the side mounted holes. These holes are untapped for M3 but the screws will simply screw in. 
+.. Note:: To mount the unit use the side mounted holes. These holes are untapped for M3 but the screws will simply screw in. 
 
 Step 8
 ------
