@@ -13,8 +13,8 @@ Step 1
 
 .. figure:: images/3_step01.svg
     :alt: Groove mount insert
-    :height: 400px
-    :width: 286px
+    :height: 286px
+    :width: 400px
 
     Screw the Groove mount (part B) in the Cryo unit (part A)
 
@@ -27,8 +27,8 @@ Step 2
 
 .. figure:: images/3_step02.svg
     :alt: Insert heat break
-    :height: 400px
-    :width: 286px
+    :height: 286px
+    :width: 400px
 
     Insert the E3D V6 heat break into the bottom of the Cryo unit.
 
@@ -38,8 +38,8 @@ Step 3
 
 .. figure:: images/3_step03.svg
     :alt: Prepare 6 mm hoses
-    :height: 400px
-    :width: 286px
+    :height: 286px
+    :width: 400px
 
     Slide the hose clamps (parts G) over the ends of the 6 mm hose.
 
@@ -51,8 +51,8 @@ Step 4
 
 .. figure:: images/3_step04.svg
     :alt: Connect input hose
-    :height: 400px
-    :width: 286px
+    :height: 286px
+    :width: 400px
 
     Connect the output of the pump to the bottom input nipple.
 
@@ -63,8 +63,8 @@ Step 5
 
 .. figure:: images/3_step05.svg
     :alt: Connect return hose
-    :height: 400px
-    :width: 286px
+    :height: 286px
+    :width: 400px
 
     Connect the return hose (that goes to the radiator) to the top output nipple.
 
@@ -75,8 +75,8 @@ Step 6
 
 .. figure:: images/3_step06.svg
     :alt: PTFE tubing
-    :height: 400px
-    :width: 286px
+    :height: 286px
+    :width: 400px
 
     Insert the PTFE tube until it is seated in the heatbreak.
 
@@ -96,8 +96,8 @@ Step 8
 
 .. figure:: images/3_step08.svg
     :alt: Assembled Heat block
-    :height: 400px
-    :width: 286px
+    :height: 286px
+    :width: 400px
 
     Screw in the heat block. 
 
