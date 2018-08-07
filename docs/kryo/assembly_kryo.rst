@@ -1,4 +1,4 @@
-Assembling the Zesty Cryo
+Assembling the Zesty Kryo
 =======================
 
 
@@ -16,7 +16,7 @@ Step 1
     :height: 286px
     :width: 400px
 
-    Screw the Groove mount (part B) in the Cryo unit (part A)
+    Screw the Groove mount (part B) in the Kryo unit (part A)
 
     * Screw it tight and use a small spanner or pair of pliers to get it tight.
 
@@ -30,7 +30,7 @@ Step 2
     :height: 286px
     :width: 400px
 
-    Insert the E3D V6 heat break into the bottom of the Cryo unit.
+    Insert the E3D V6 heat break into the bottom of the Kryo unit.
 
 
 Step 3
@@ -87,7 +87,7 @@ Step 6
 Step 7
 ------
 
-Mount the Hydro unit as normal with the groove mount. 
+Mount the Kryo unit as normal with the groove mount. 
 
 .. Note:: To mount the unit use the side mounted holes. These holes are untapped for M3 but the screws will simply screw in. 
 
@@ -116,7 +116,7 @@ Insert the hose reducers to the 10 mm OD hoses coming from the Pump and Radiator
 Step 11
 -------
 
-Connect the 6 mm hoses from the Hydro unit to the reducers and secure with the hose clips.
+Connect the 6 mm hoses from the Kryo unit to the reducers and secure with the hose clips.
 
 Step 12
 -------
@@ -125,7 +125,7 @@ Fill the pump water tank and switch it on.
 
 * Check carefully for any leaks at every junction or connection.
 
-Wiring up the pump for the Cryo
+Wiring up the pump for the Kryo
 ################
 
 First run the extruder a minute or two, with no filament clamped. Just to bed the gears and drive cable in. Extrude and retract a few times. (You will have to switch off the temperature control as most controllers will not move the extruder stepper unless the hot end it up to temperature)
