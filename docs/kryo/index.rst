@@ -14,4 +14,6 @@ Kryo
 
    parts_kryo
    assembly_kryo
+   pumphouse
+   wiring
 
