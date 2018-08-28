@@ -288,7 +288,7 @@ So in your slicer, open the Printer settings and add the following code to your 
     ;Marlin Setup g.code
     M92 E2650   ; Set steps/mm extrusion
     M201 E120   ; Set Extruder acceleration 
-    M204 T120   ; Set Retract acceleration
+    M204 R120   ; Set Retract acceleration
     M205 E3     ; Set Extruder Jerk
     M203 E45    ; Maximum feed rate
 
