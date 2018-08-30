@@ -1,10 +1,10 @@
 Parts List
 ============
 
-Here is a complete list of all the parts of the Kryo including the quantity needed for the Cryo.
+Here is a complete list of all the parts of the Kryo including the quantity needed for the Kryo.
 
 .. figure:: images/3_all_parts.svg
-    :alt: All parts of the Zesty Cryo
+    :alt: All parts of the Zesty Kryo
     :height: 572px
     :width: 800px
 
@@ -19,14 +19,14 @@ The following parts are not shown in the image:
 *  , All the parts of the E3D V6
 
 
-Cryo unit
+Kryo unit
 -------
 
 .. csv-table:: 
    :header: "Item", "Part name", "Qty", "Part Number"
    :widths: 5, 40, 5, 20
    
-    A, Cryo Unit ,  1 ,  Z03-07-0050
+    A, Kryo Unit ,  1 ,  Z03-07-0050
     B, Groove insert ,  1,   Z03-07-0031
     C, M12x1.5 insert ,  1  , Z03-07-0032
     D, Stub insert  , 1 ,  Z03-07-0033
