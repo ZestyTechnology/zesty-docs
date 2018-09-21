@@ -34,7 +34,7 @@ Step 2
 
     Insert worm
 
-    * Apply grease from silver packet to the Worm (part G) then insert in the bearing of the Bottom housing.
+    * Apply grease (10k CST silicon diff lube) from white tube to the Worm (part G) then insert in the bearing of the Bottom housing.
 
 Step 3
 ------
