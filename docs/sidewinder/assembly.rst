@@ -45,7 +45,7 @@ Step 3
     :height: 400px
     :width: 286px
 
-    Apply grease from silver packet to the Worm (part G) then insert in the bearing of the Top Housing.
+    Apply grease (10k CST silicon diff lube if you need to replace later) from white tube to the Worm (part G) then insert in the bearing of the Top Housing.
     
     * Slide the Worm Lid over the Worm and close the top half of the Sidewinder.
 
