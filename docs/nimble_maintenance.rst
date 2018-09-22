@@ -21,7 +21,8 @@ Every 5 spools
 
 After printing 5 full spools of 750 gr or 1 kg, we recommend the following actions:
 
-* All of the above
+* All of the above.
+* Check if the gears are still properly lubed, add a little if needed.
 * Open the breech to check the teeth of the hob. They are easy to clean, if needed using a tooth brush. (what else?) 
 
 Overall
