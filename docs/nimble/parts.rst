@@ -28,7 +28,7 @@ Body
     B, Top half ,  1,   Z0N-07-0028
     C1, Drive cable clamp Bracket side,  1  , Z0N-07-0030
     C2, Drive cable clamp Nimble side,  1  , Z0N-07-0029
-    D, Groove mount adapter  , 1 ,  Z0N-07-0030
+    D, Groove mount adapter  , 1 ,  Z0N-07-0035
 
 
 
