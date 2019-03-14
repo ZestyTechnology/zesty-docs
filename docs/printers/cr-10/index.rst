@@ -57,9 +57,9 @@ Step 5
     :height: 516px
     :width: 800px
 
-    Use a 4mm allen key to screw in the mount screw.
+    Use a 4mm allen key to screw in the mount screw.Do NOT overtighten, just finger tight is enough!
 
-    * Make sure the Mount Screw has no powder left inside.  
+    * Before installing, make sure the Mount Screw has no powder left inside.  
 
 Step 6
 ------
