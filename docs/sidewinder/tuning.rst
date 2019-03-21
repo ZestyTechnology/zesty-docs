@@ -75,9 +75,9 @@ Another aspect you need to reduce is the jerk value as it helps to move the gear
 Retraction speed
 ----------------
 
-For the normal extrusion and retraction settings in your slicer, please test the settings with the extruder multiplier set to 1 or 100% extrusion. Set the retraction speed to 30 mm/sec. This is the optimal retraction speed for PLA and should be the standard. You can increase retraction speed if you want to, but normally 30 mm/sec is perfect.
+For the normal extrusion and retraction settings in your slicer, please test the settings with the extruder multiplier set to 1 or 100% extrusion. Set the retraction speed to 30 mm/sec. This is the optimal retraction speed for PLA and should be the standard. You can increase retraction speed if you want to, but normally 30 mm/sec is perfect. It will depend on the hotend you are using, but a retraction distance of 1mm is a good starting point.
 
-.. Note:: Suggested retraction speed is 30 mm/sec
+.. Note:: Suggested retraction speed is 30 mm/sec with retract of 1mm.
 
 Tuning it all
 -------------
