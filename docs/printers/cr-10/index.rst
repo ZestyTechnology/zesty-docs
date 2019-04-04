@@ -1,7 +1,9 @@
-Installing the Nimble
+Installing the Nimble Sidewinder
 ==================
 
 If you aren't using our CR-10 Kit, you can skip to the section after Step 11 titled Stepper control.
+
+ .. Note:: Installing the Nimble, instead of the Sidewinder, you more or less follow the same steps. It is slightly easier to install than the Sidewinder.   
 
 Step 1
 ------
@@ -91,6 +93,7 @@ Step 8
 
     * Insert and tighten the first M3 screw. Use the M3x16 screw in hole 1
     * Do not overtighten these M3 bolts. Simply finger tight and then and additional 1/4 turn is enough. 
+    .. Note:: You do not have to do this with the Nimble. Simply assemble the Nimble and mount it on the block.
 
 
 Step 9
@@ -136,8 +139,8 @@ Do this carefully and slowly. Just to be clear, there is a small risk of damagin
 
     .. Note:: Ideally use a non-conductive screwdriver to adjust the pot.
 
-You need to reverse the direction of the stepper. If you have flashed the firmware, you can do that easily in the firmware.
-If not, you need to switch two wires at the plug going into the extruder stepper. 
+If, and only if, you are installing the Sidewinder, you need to reverse the direction of the stepper. Do NOT do this if you are installing the standard Nimble. 
+If you have flashed the firmware, you can do that easily in the firmware. If not, you need to switch two wires at the plug going into the extruder stepper. 
 
 Step 12
 -------
