@@ -5,6 +5,8 @@ Because of the gear ratio inside the Nimble, the steps per millimeter are a lot 
 
 .. note:: Start with 2700 steps/mm with a 1.8deg stepper and 1/16 microstepping
 
+Try tuning without wipe and coast first, there's no bowden tube pressure buildup, so coasting not really needed.
+
 The Nimble has a nice flat surface you can use to set the ruler on, when measuring the filament, simply place it on top of the "ears" of the breech block.
 Use a light coloured filament, place it in the breech, heat up the hot end and start the process.
 
