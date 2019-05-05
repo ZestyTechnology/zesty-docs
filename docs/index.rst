@@ -8,7 +8,7 @@ Zesty Technology
 
 .. toctree::
    :maxdepth: 1
-   :caption: Nimble Extruder Documentation:
+   :caption: Nimble Extruder
 
    nimble/index
    sidewinder/index
@@ -18,6 +18,6 @@ Zesty Technology
    
 .. toctree::
    :maxdepth: 1
-   :caption: Kryo Heatsink Documentation:
+   :caption: Kryo Heatsink
    
    kryo/index
