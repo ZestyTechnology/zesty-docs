@@ -15,4 +15,6 @@ Zesty Technology
    printers/index
    nimble_adapters
    nimble_maintenance
+   
+   :caption: Kryo Documentation:
    kryo/index
