@@ -105,6 +105,7 @@ Step 7
     When mounting on a plate, use the Groove mount adaptor
 
     * Mount the Nimble on your printer. If you are using an adapter, have a look at the adapter page to see if there are any specific instructions for that adapter.
+    * When mounting the Nimble, make sure that you insert the PTFE tube into the hot end. The length of tubing will depend on the mount you use. The length should be so, that the Nimble or the top of the adapter locks it in place. 
     * The overall procedure if using the Groove Mount Adapter (Part D) is to have the Hot end in place, place the Groove mount adapter over the top of the hot end and place the Nimble on top of that, making sure the little tabs fit inside the "forks" of the Nimble. This locks the Nimble to the hot end and keeps it centered.
 
 Step 8
