@@ -247,7 +247,7 @@ Step 17
     * Back to the Sidewinder side. 
     * Slide the Sleeve, now containing the drive cable as well, into the next Sleeve Clamp (part C) and push it down as far as it will go. Use the M3 screw (part Z) and the half nut (part W) to clamp the sleeve. 
 
-    .. Note:: After mounting the Sidewinder in place, you can loosen this screw a little to adjust the direction of the drive cable. Allow it to have a relaxed and free arch to the stepper.
+    .. Note:: After mounting the cable in place, you can loosen this screw a little to adjust the direction of the drive cable. Allow it to have a relaxed and free arch to the stepper.
 
 
 Step 18
@@ -283,6 +283,8 @@ Step 19
 
 Using the Sidewinder
 #####################
+
+Feed filament through the Sidewinder into the PTFE below and make sure the breech is closed before tightening all the mounting bolts, this will ensure the correct alignment and that the breech will close easily.
 
 First run the extruder a minute or two, with no filament clamped. Just to bed the gears and drive cable in. Extrude and retract a few times. (You will have to switch off the temperature control as most controllers will not move the extruder stepper unless the hot end it up to temperature)
 Use M302 P1 on RepRapFirmware to switch cold extrusion on (allow extrusion while cold) and M302 P0 to switch it off again.
