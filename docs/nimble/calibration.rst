@@ -16,8 +16,8 @@ Use a light coloured filament, place it in the breech, heat up the hot end and s
 
 .. note:: Many firmwares extrude too fast for the Nimble when you use the menu extrude options, suggest that you use the following gcode to extrude:
 
-G92 E0
-G1 E10 F300 ; extrude 10mm of filament at 5mm/sec
+| G92 E0
+| G1 E10 F300 ; extrude 10mm of filament at 5mm/sec
 
 * Measure the remaining length to the mark made. 
 * Calculate the new number of steps/mm using the following formula:
