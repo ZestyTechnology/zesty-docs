@@ -254,6 +254,8 @@ Step 19
     :width: 286px
 
     Use second bolt to affix Sleeve Clamp and Nimble in position
+    
+    * Feed filament through the Nimble into the PTFE below the Nimble and make sure the breech is closed before tightening all the mounting bolts, this will ensure the correct alignment and that the breech will close easily.
 
     * Now use the remaining screw (part T) and perhaps the remaining M3 nut, to bolt the Nimble to the printhead or effector. The Nimble is now installed. Have a good look to see if it all looks the way you think it should look and correct any things that do not look right. 
     .. Note:: Do not tighten these M3 bolts too tight. Simply finger tight and then 1/4 turn is enough.    
