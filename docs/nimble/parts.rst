@@ -14,7 +14,7 @@ The following parts are not shown in the image:
 
 * F, Drive cable sleeve
 * L, Drive cable
-* S, M3 nuts
+* S, Lubrication
 
 
 Body
@@ -72,6 +72,6 @@ Fastening
     T, M3 Cap screw x 40, 2, Z0N-25-0060
     V, M3 Cap screw x 6,   4,   Z0N-25-0032
     Z, M3 Cap screw x 8,   2,   Z0N-25-0056
-    W, M3 Jam nut (half height),   2,   Z0N-25-0057
+    W, M3 Nut,   4,   Z0N-25-0061
     Y, M3 Set screws x 6,   6,   Z0N-25-0004
-    S, M3 Nut ,  2,   Z0N-25-0061
+   
