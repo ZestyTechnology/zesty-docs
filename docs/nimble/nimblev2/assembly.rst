@@ -8,7 +8,7 @@ The Nimble in detail
     :height: 300px
     :width: 300px
 
-    General overview of the parts of the Nimble V2. 
+General overview of the parts of the Nimble V2. 
 
 Before we begin
 ---------------
