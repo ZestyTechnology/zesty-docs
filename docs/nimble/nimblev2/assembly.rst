@@ -3,7 +3,7 @@ Installation of the Nimble V2
 
 The Nimble in detail
 --------------------
-.. figure:: images/N01.Nimble_Exploded.svg
+.. figure:: images/n01_nimble_exploded.svg
     :alt: Exploded view of the Nimble V2
     :height: 300px
     :width: 300px
