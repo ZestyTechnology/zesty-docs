@@ -12,5 +12,5 @@ Nimble documentation
    :maxdepth: 1
    :caption: Nimble:
 
-   nimble/V1/index
-   nimble/V2/index
+   V1/index
+   V2/index
