@@ -9,8 +9,11 @@ Nimble documentation
 
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Nimble:
+   :maxdepth: 2
+   :caption: Nimble V1:
 
-   nimble/V1/index
-   nimble/V2/index
+   parts
+   assembly
+   tuning
+   calibration
+   using
