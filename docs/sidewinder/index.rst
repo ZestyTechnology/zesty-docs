@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Nimble documentation
+Sidewinder documentation
 ===============
 
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Nimble:
+   :caption: Sidewinder:
 
    sidewinder/V1/index
    sidewinder/V2/index
