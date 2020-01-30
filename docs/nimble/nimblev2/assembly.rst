@@ -113,7 +113,7 @@ Assemble Breech
     :width: 300px
 
 * Place the bearing into the space of the breech.
-* Insert breech pin through breech body and bearing as shown in diagram.
+* Insert breech pin through breech body and bearing from the same side shown in diagram.
 
 
 Attach the mount on the printer
