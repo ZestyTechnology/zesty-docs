@@ -25,6 +25,7 @@ Assemble gear and hob
     :height: 300px
     :width: 300px
 
+
 *Slide the hob(K) into the gear(G).
 *Slide the bearings (H) on both ends of the gear and hob.    
 
