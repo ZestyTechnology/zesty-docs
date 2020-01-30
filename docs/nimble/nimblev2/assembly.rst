@@ -26,6 +26,7 @@ Example of mounting a Nimble V2
     :width: 300px
 
 Overall steps
+
 * Assemble the Nimble.
 * Fix the mount onto the printer.
 * Attach the hot-end.
