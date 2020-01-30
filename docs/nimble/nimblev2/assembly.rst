@@ -126,8 +126,8 @@ Here is an example for a CR-10 type printer.
 Attach the Mount
 ----------------
 
-.. figure:: images/N01.Nimble_Exploded.svg
-    :alt: Exploded view of the Nimble V2
+.. figure:: images/A01.Mounting_example.svg
+    :alt: Exploded view of a mounting example 
     :height: 300px
     :width: 300px
 
