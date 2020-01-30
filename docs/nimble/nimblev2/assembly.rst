@@ -3,7 +3,7 @@ Installation of the Nimble V2
 
 The Nimble in detail
 --------------------
-.. figure:: images/n01_nimble_exploded.svg
+.. figure:: images/N01.Nimble_Exploded.svg
     :alt: Exploded view of the Nimble V2
     :height: 300px
     :width: 300px
@@ -330,5 +330,5 @@ Tuning the firmware
 
 Before using the Nimble you need to tune the firmware and calibrate the extrusion. You will need to tune the firmware first, as the Nimble is quite a different type of extruder. 
 
-See the :doc:`Tuning the Firmware<./tuning>` page.
+See the :doc:`Tuning the Firmware<.tuning>` page.
 
