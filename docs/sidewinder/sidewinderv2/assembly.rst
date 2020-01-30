@@ -3,7 +3,7 @@ Assemble the Nimble Sidewinder V2
 
 The Nimble Sidewinder V2 in detail
 --------------------
-.. figure:: images/N01.Sidewinder_Exploded.svg
+.. figure:: images/S01.Sidewinder_Exploded.svg
     :alt: Exploded view of the Nimble Sidewinder V2
     :height: 300px
     :width: 300px
@@ -20,7 +20,7 @@ Step 1
 ------
 Assemble gear and hob
 
-.. figure:: images/S02.Gear assembly.svg
+.. figure:: images/S02.Gear_Assembly.svg
     :alt:  Gear shaft assembly
     :height: 300px
     :width: 300px

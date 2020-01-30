@@ -3,7 +3,7 @@ Parts List
 
 Here is a complete list of all the parts of the Nimble Sidewinder V2, including the quantity needed for the Sidewinder.
 
-.. figure:: images/P01.All_Parts_Sidewinder.svg
+.. figure:: images/P02.All_Parts_Sidewinder.svg
     :alt: All parts of the Nimble Sidewinder V2
     :height: 800px
     :width: 400px
