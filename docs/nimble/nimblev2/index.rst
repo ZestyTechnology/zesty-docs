@@ -10,7 +10,7 @@ Nimble V2 documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Nimble:
+   :caption: Nimble V2:
 
    parts
    assembly
