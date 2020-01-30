@@ -12,5 +12,5 @@ Sidewinder documentation
    :maxdepth: 1
    :caption: Sidewinder:
 
-   V1/index
-   V2/index
+   sidewinderv1/index
+   sidewinderv2/index
