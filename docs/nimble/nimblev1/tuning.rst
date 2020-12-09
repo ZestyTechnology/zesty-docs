@@ -5,9 +5,9 @@ The Nimble is a different beast to standard extruders and therefore requires som
 
 .. Note:: For 32 bit boards start at around 2700 steps/mm at 1/16 microstepping.
 
-.. Note:: For 16 bit boards start at around 1200 steps/mm at 1/8 microstepping.
+.. Note:: For 16 bit boards start at around 1250 steps/mm at 1/8 microstepping.
 
-.. Note:: For 8 bit boards start at around 600 steps/mm at 1/4 microstepping.
+.. Note:: For 8 bit boards start at around 675 steps/mm at 1/4 microstepping.
 
 Your settings will probably be slightly different, so after setting this do the normal extrusion calibration.
 
