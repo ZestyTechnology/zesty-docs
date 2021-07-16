@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Nimble V2
+Nimble V3 (the Flex)
 =========
 
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Nimble V2:
+   :caption: Nimble V3:
 
    parts
    assembly
