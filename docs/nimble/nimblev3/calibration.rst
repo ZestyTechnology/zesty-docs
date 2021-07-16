@@ -1,11 +1,11 @@
-Calibrating the Nimble
+Calibrating the Flex
 ======================
 
-Because of the gear ratio inside the Nimble V2, the steps per millimeter are a lot more than your usual number. 
+Because of the gear ratio inside the Flex, the steps per millimeter are a lot more than your usual number. 
 
-.. note:: Start with 1800 steps/mm with a 1.8deg stepper and 1/16 microstepping
+.. note:: Start with 2700 steps/mm with a 1.8deg stepper and 1/16 microstepping
 
-The Nimble has a nice flat surface you can use to set the ruler on, when measuring the filament, simply place it on top of the "ears" of the breech block.
+The Flex has a nice flat surface you can use to set the ruler on, when measuring the filament, simply place it on top of the half circle on top of the Hobbit.
 Use a light coloured filament, place it in the breech, heat up the hot end and start the process.
 
 * Measure 100 mm on the filament, by holding the filament against the ruler while the ruler stands on the breech block ears. 
@@ -20,4 +20,4 @@ Use a light coloured filament, place it in the breech, heat up the hot end and s
 * Do the whole sequence again, to confirm that the steps per millimeter are now set correctly.
 * if not, recalculate and re-confirm.
 
-Done! All the tuning and calibrations are done. You are now ready to start using the Nimble, so go to the :doc:`Using the Nimble<./using>` page or click Next.
+Done! All the tuning and calibrations are done. You are now ready to start using the Flex, so go to the :doc:`Using the Flex<./using>` page or click Next.

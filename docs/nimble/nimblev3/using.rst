@@ -1,7 +1,7 @@
-Using the Nimble V2
+Using the Flex
 ================
 
-The Nimble V2 is designed to be easy to use. Here are the basic tips to make it even better.
+The Flex is designed to be easy to use. Here are the basic tips to make it even better.
 
 Loading the filament
 --------------------
@@ -15,19 +15,19 @@ The filament loading mechanism is based on the breech loading idea of old musket
 
 .. figure:: images/b_step01.svg
     :alt: Open Breech
-    :height: 400px
-    :width: 286px
+    :height: 300px
+    :width: 300px
 
     Open the breech
 
     * Squeeze the "ears" together.
-    * Pull the ears forward, away from the Nimble.
+    * Pull the ears forward, away from the Flex.
     * This can require a little force the first few times. 
-    * Now lift the Breech out of the "forks" on the Nimble
+    * Now drop the Breech down out of the "forks" on the Flex.
 
 **Have a look**
 
-.. figure:: images/b_step01.svg
+.. figure:: images/b_step02.svg
     :alt: View the open area
     :height: 400px
     :width: 286px
@@ -59,8 +59,8 @@ The filament loading mechanism is based on the breech loading idea of old musket
 
     Close the breech
 
-    * Place the prongs into the slots on the bottom forks
-    * Rotate the breech upwards
+    * Step 1, place the prongs into the slots on the bottom forks from below
+    * Step 2, rotate the breech upwards
     * Squeeze the ears in and slide between the upper forks
     * the breech will click into place
 
