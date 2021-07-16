@@ -908,5 +908,11 @@
         <path id="path88753" d="M-13.523,1011.51L-12.329,1012.16L-11.088,1013.15L-9.508,1014.76" style="fill:none;fill-rule:nonzero;stroke:rgb(5,139,33);stroke-width:0.6px;"/>
         <path id="path88755" d="M-9.508,1014.76C-9.896,1015.17 -10.258,1015.7 -10.592,1016.32" style="fill:none;fill-rule:nonzero;stroke:rgb(5,139,33);stroke-width:0.6px;"/>
         <path id="path88757" d="M-13.799,1010.84L-13.793,1010.93L-13.527,1011.42" style="fill:none;fill-rule:nonzero;stroke:rgb(5,139,33);stroke-width:0.6px;"/>
+        <g transform="matrix(0.999501,-0.031572,0.031572,0.999501,-165.2,900.235)">
+            <g transform="matrix(0.999501,0.031572,-0.031572,0.999501,3.88211,-3.18519)">
+                <path d="M119.179,113.645L127.42,113.869L120.693,118.634L119.179,113.645Z"/>
+                <path d="M78.185,128.806C78.185,128.806 108.312,119.666 121.433,115.685" style="fill:none;stroke:black;stroke-width:0.6px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+        </g>
     </g>
 </svg>

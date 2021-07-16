@@ -25,7 +25,7 @@ Example of mounting a Flex
     :height: 300px
     :width: 300px
 
-Overall steps
+Overall steps to mount the Flex.
 
 * Assemble the Flex.
 * Fix the mount onto the printer.
@@ -43,9 +43,10 @@ Positions of the Flex
     :height: 300px
     :width: 600px
 
-Possible positions of the Flex
+Some possible positions of the Flex
 
-* All these positions shown can be achieved simply be re-positioning the same parts.
+* All the positions shown can be achieved simply be re-positioning the same parts.
+* These are some of the positions, more are possible.
 * You can choose a left handed or right handed orientation of the base body.
 * Then you can select the angle of the worm housing that will best fit your printer.
 * Then you can select on which side the drive cable will enter the worm housing. 
@@ -63,8 +64,8 @@ Assemble gear and hob
     :height: 300px
     :width: 300px
 
-    * Slide the hob(K) into the gear(G).
-    * Slide the bearings (V) on both ends of the gear and hob.
+* Slide the hob(K) into the gear(G).
+* Slide the bearings (V) on both ends of the gear and hob.
 
 Step 2
 ------
@@ -75,10 +76,10 @@ Insert the hob into the Hobbit
     :height: 300px
     :width: 300px
 
-    * You will use the assmbled gear shaft and the Hobbit (part A)
-    * Insert the gear shaft, Hob first, into the Hobbit.
-    * There is a little edge inside the Hobbit, so you will need to wriggle it past.
-    * Make sure the bearing on the end of the Hob is inserted fully.
+* You will use the assmbled gear shaft and the Hobbit (part A)
+* Insert the gear shaft, Hob first, into the Hobbit.
+* There is a little edge inside the Hobbit, so you will need to wriggle it past.
+* Make sure the bearing on the end of the Hob is inserted fully.
 
 Step 3
 ------
@@ -89,8 +90,8 @@ Insert worm into the two bearings
     :height: 300px
     :width: 300px
 
-    * You will use the Worm (part H) and both the Worm Bearings (part W)
-    * Place a bearing on each of the worm ends.
+* You will use the Worm (part H) and both the Worm Bearings (part W)
+* Place a bearing on each of the worm ends.
 
 Step 4
 ------
@@ -101,9 +102,9 @@ Insert worm into the Worm Housing
     :height: 300px
     :width: 300px
 
-    * You will use the assembled worm and the Worm Housing (part B)
-    * Slide the worm with bearings into the Worm Housing.
-    * This can take a little force, just push it through.
+* You will use the assembled worm and the Worm Housing (part B)
+* Slide the worm with bearings into the Worm Housing.
+* This can take a little force, just push it through.
 
 Step 5
 ------
@@ -114,11 +115,11 @@ Closing the Worm Housing
     :height: 300px
     :width: 300px
 
-    * You will use the Sleeve Clamp (D) and the Plug (part J)
-    * Screw the Sleeve Clamp into the Worm Housing.
-    * Screw the Plug into the other side of the Worm Housing.
+* You will use the Sleeve Clamp (D) and the Plug (part J)
+* Screw the Sleeve Clamp into the Worm Housing.
+* Screw the Plug into the other side of the Worm Housing.
     
-    .. Note:: This is the moment where you decide which way the drive cable will enter the Worm. So make sure you understand the direction you need.  
+.. Note:: This is the moment where you decide which way the drive cable will enter the Worm. So make sure you understand the direction you need.  
 
 Step 6
 ------
@@ -129,8 +130,8 @@ Assemble Breech
     :height: 300px
     :width: 300px
 
-    * Place the Breech Bearing (U2) into the space of the Breech (I).
-    * Insert Breech Pin (U1) through breech body and bearing from the same side shown in diagram.
+* Place the Breech Bearing (U2) into the space of the Breech (I).
+* Insert Breech Pin (U1) through breech body and bearing from the same side shown in diagram.
 
 Step 7
 ------
@@ -141,8 +142,8 @@ Add Lubrication
     :height: 300px
     :width: 300px
 
-    * Put a few drops of the lubrication on the teeth of the gear.
-    * No need to overdo it, just a drop or two.
+* Put a few drops of the lubrication on the teeth of the gear.
+* No need to overdo it, just a drop or two.
 
 Step 8
 ------
@@ -153,10 +154,10 @@ Assemble the Flex
     :height: 300px
     :width: 300px
 
-    * Hold the Hobbit in one hand.
-    * Slide the Worm Housing over the gear end of the gear shaft.
+* Hold the Hobbit in one hand.
+* Slide the Worm Housing over the gear end of the gear shaft.
 
-    .. Note:: Make sure the bearing on the gear is fully seated in the Worm Housing.
+.. Note:: Make sure the bearing on the gear is fully seated in the Worm Housing.
 
 Step 9
 ------
@@ -167,16 +168,15 @@ Place the Side Clamp
     :height: 300px
     :width: 300px
 
-    * You will need the Side Clamp (C) and the assembled Flex.
-    * Slide the Side Clamp onto the Worm Housing.
-    * Make sure the base of the side clamp is parallel to the base of the Hobbit.
+* You will need the Side Clamp (C) and the assembled Flex.
+* Slide the Side Clamp onto the Worm Housing.
+* Make sure the base of the side clamp is parallel to the base of the Hobbit.
 
 Attach the mount on the printer
 ===============================
 
 Each printer is different so the actual parts will vary, but overall the steps are the same. 
-
-Here is an example for a CR-10 type printer.
+Shown is a generic block for a mount. 
 
 Attach the Mount
 ----------------
@@ -188,20 +188,22 @@ Attach the Mount
 
 
 Every hot-end needs a PTFE tube down the inside. With the Flex there is no need to clamp the PTFE tube, the Flex locks it into place. So any bowden connector or PTFE clamp is not needed. 
-Slide the PTFE tube into the hot-end making sure it goes as deep as it can go. 
-Slide the Clip (F) over the PTFE tube in the correct orientation and slide it down onto the Mount. (As shown above)
-Slice the PTFE tube flush with the Clip.
+
+* Slide the PTFE tube into the hot-end making sure it goes as deep as it can go. 
+* Slide the Clip (F) over the PTFE tube in the correct orientation and slide it down onto the Mount. (As shown above)
+* Slice the PTFE tube flush with the Clip.
+
 We use the Clip in this way to make sure you get the right length of PTFE tube.
 You are now ready to install the Flex.
 
 Installing the Flex
 =====================
-Place a piece of filament in the hot-end.
-Place the Flex in the correct orientation over the Mount and the Clip. 
-Push down and the Clip will click into a groove in the Flex. 
-Take the Breech and click it closed, clamping the filament.
-(This centers the Flex over the hot-end)
-Use the screws to attach the Flex to the Mount.
+* Place a piece of filament in the hot-end.
+* Place the Flex in the correct orientation over the Mount and the Clip. 
+* Push down and the Clip will click into a groove in the Flex. 
+* Take the Breech and click it closed, clamping the filament. (This centers the Flex over the hot-end)
+* Use the screws to attach the Flex to the Mount.
+
 Do not overtighten. Finger tight and an extra quarter turn are more than enough.
 You have now installed the Flex and can install the stepper side.
 
@@ -282,8 +284,8 @@ Step 6
 
 .. figure:: images/1_step14.svg
     :alt: Insert Sleeve clamp into stepper bracket
-    :height: 400px
-    :width: 286px
+    :height: 456px
+    :width: 568px
 
     Insert Sleeve clamp into stepper bracket, taking note of the 3 tabs
 
@@ -338,12 +340,12 @@ Step 10
 Step 11
 -------
 
-.. figure:: images/N08.Sleeve_Clamp.svg
-    :alt: Place sleeve clamp
-    :height: 400px
-    :width: 286px
+.. figure:: images/N40.Sleeve_Clamp_Flex.svg
+    :alt: Place sleeve clamp Flex side
+    :height: 300px
+    :width: 300px
 
-    * Insert the drive cable into the worm and then slide it down. To place the sleeve clamp correctly, make sure you line up the tabs with the 3 slots on the Flex and in such a way that when locked, the notch ends up next to a mount screw. This can take a little push the first time. As long as you make sure it is aligned properly, this is not a problem.
+    * Insert the drive cable into the worm and then slide it down. To place the sleeve clamp correctly, make sure you line up the tabs with the 3 slots on the Flex. This can take a little push the first time. As long as you make sure it is aligned properly, this is not a problem.
 
 The Flex is now ready for calibration.
 

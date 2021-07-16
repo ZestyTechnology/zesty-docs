@@ -1,13 +1,13 @@
 Tuning the Firmware
 ===================
 
-The Nimble V2 is a different beast to standard extruders and therefore requires some quite specific firmware changes if you hope to get optimal performance. We recommend use of a 1.8 degree stepper, 0.9 degree stepers are great for your other axis, but with the Nimble it's just not required or advisable.
+The Flex is a different beast to standard extruders and therefore requires some quite specific firmware changes if you hope to get optimal performance. We recommend use of a 1.8 degree stepper, 0.9 degree stepers are great for your other axis, but with the Nimble family it's just not required or advisable.
 
-.. Note:: For 32 bit boards start at around 1800 steps/mm at 1/16 microstepping.
+.. Note:: For 32 bit boards start at around 2700 steps/mm at 1/16 microstepping.
 
-.. Note:: For 16 bit boards start at around 800 steps/mm at 1/8 microstepping.
+.. Note:: For 16 bit boards start at around 1350 steps/mm at 1/8 microstepping.
 
-.. Note:: For 8 bit boards start at around 400 steps/mm at 1/4 microstepping.
+.. Note:: For 8 bit boards start at around 670 steps/mm at 1/4 microstepping.
 
 Your settings will probably be slightly different, so after setting this do the normal extrusion calibration.
 
@@ -97,4 +97,4 @@ Troubleshooting
 ---------------
 If these settings do not work for you, the first thing to try is to reduce the jerk setting. You can go as low as 0.1 mm/sec as the jerk setting has virtually no impact on your total print time. If you still find you cannot retract at the speed you need, reduce, let me repeat that, reduce the vref even further. You can go down as low as 0.1V. If it still does not work as you expect, contact us on chat and we will have a lively discussion about it.
 
-One more step, calibrating the extrusion length. Go to the :doc:`Calibration of the Nimble<./calibration>` page or click Next.
+One more step, calibrating the extrusion length. Go to the :doc:`Calibration of the Flex<./calibration>` page or click Next.
