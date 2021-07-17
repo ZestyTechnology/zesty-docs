@@ -8,7 +8,7 @@ Loading the filament
 
 The filament loading mechanism is based on the breech loading idea of old muskets. Instead of fiddly work trying to insert the filament from the top, guide it past the hob and into a hot end you cannot see, we decided to open it up and show to the whole path.
 
-..note:: It is a lot faster to do that to read about it.
+.. Note:: It is a lot faster to do that to read about it.
 
 **Open it up**
 
@@ -32,7 +32,7 @@ The filament loading mechanism is based on the breech loading idea of old musket
     :height: 400px
     :width: 286px
 
-    Have a look
+    Overview of the filament path
 
     * Have a look between the forks
     * You can see the hob and the hot end opening
@@ -45,7 +45,7 @@ The filament loading mechanism is based on the breech loading idea of old musket
     :height: 400px
     :width: 286px
 
-    Insert filament
+    Placing the filament
 
     * It is now easy to slide the filament into the hot end.
     * Slide it all the way down, into the melt chamber.
@@ -57,12 +57,12 @@ The filament loading mechanism is based on the breech loading idea of old musket
     :height: 400px
     :width: 286px
 
-    Close the breech
+    Closing the breech is a snap
 
     * Step 1, place the prongs into the slots on the bottom forks from below
     * Step 2, rotate the breech upwards
     * Squeeze the ears in and slide between the upper forks
-    * the breech will click into place
+    * The breech will click into place
 
 Great, done. The filament is loaded and ready to print. That took about a minute or so to read, but it will take about 2 seconds to do. 
 
