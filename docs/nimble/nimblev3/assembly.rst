@@ -59,7 +59,7 @@ Step 1
 ------
 Assemble gear and hob
 
-.. figure:: images/N32.Gear_Assembly.svg
+.. figure:: images/N32.Gear_assembly.svg
     :alt: Gear shaft assembly 
     :height: 300px
     :width: 300px
