@@ -14,3 +14,4 @@ Nimble documentation
 
    nimblev1/index
    nimblev2/index
+   nimblev3/index
