@@ -177,6 +177,14 @@ Attach the mount on the printer
 
 Each printer is different so the actual parts will vary, but overall the steps are the same. 
 Shown is a generic block for a mount. 
+Have a look here for the various mounts already available:
+
+**Thingiverse**
+https://www.thingiverse.com/zestytech/collections/mounts-for-the-flex
+
+**Thangs**
+https://thangs.com/Zesty.Tech
+
 
 Attach the Mount
 ----------------
