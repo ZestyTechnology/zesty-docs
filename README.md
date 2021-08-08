@@ -1,2 +1,2 @@
 # zesty-docs
-Zesty Technology product documentation.
+Zesty Technology product documentation. 
