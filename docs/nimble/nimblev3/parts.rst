@@ -23,13 +23,14 @@ Body
    :header: "Item", "Part name", "Qty", "Part Number"
    :widths: 5, 40, 5, 20
    
-    A, Hobbit ,  1 ,  Z3N-07-0027
-    B, Worm housing ,  1,   Z3N-07-0028
-    C, Side clamp, 1, Z3N-07-0001
-    D, Drive cable clamp Flex side,  1  , Z3N-07-0029
+    A, Hobbit ,  1 ,  Z3N-07-0060
+    B, Worm housing ,  1,   Z3N-07-0061
+    C, Side clamp, 1, Z3N-07-0062
+    D, Drive cable clamp Flex side,  1  , Z3N-07-0063
     E, Drive cable clamp Bracket side,  1  , Z0N-07-0030
     F, PTFE Clip,  1  , Z2N-07-0130
-    I, Breech, 1, Z3N-07-0031        
+    I, Breech, 1, Z3N-07-0064
+    J, Worm housing Plug, 1, Z3B-07-0065
 
 
 Bearings
@@ -51,10 +52,10 @@ Drive System
    :header: "Item", "Part name", "Qty", "Part Number"
    :widths: 5, 40, 5, 20
 
-    U2, Pressure shaft  , 1 , Z0N-20-0022   
+    U1, Breech pin  , 1 , Z0N-20-0022   
     G, Gear ,  1 ,    Z2N-07-0034    
     H, Worm gear	,  1  ,		Z2N-07-0033
-    K, Hob,	 1	,	Z3N-20-0007
+    K, Hob,	 1	,	Z3N-20-0008
     L, Coupler  ,   1 ,     Z0N-20-0025
     M, Stepper bracket   , 1  ,   Z0N-20-0024
     S, Drive cable sleeve , 1  ,  Z0N-07-0032
